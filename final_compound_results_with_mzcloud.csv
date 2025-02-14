@@ -1,0 +1,815 @@
+"compound_name","matched_name","final_result","CID","IUPACName","MolecularFormula","MolecularWeight","KEGG_ID","HMDB_ID","CHEBI_ID","Similarity","mzcloud_Endogenous_info"
+"2-Piperidone","2-Piperidone",TRUE,12665,"piperidin-2-one","C5H9NO",99.13,"Not_Access","HMDB0011749","77761",1,"Industrial Chemicals"
+"2-Hydroxybutyric acid","2-Hydroxybutyric acid",TRUE,11266,"2-hydroxybutanoic acid","C4H8O3",104.1,"Not_Access","Not_Access","1148",1,"Excipients/Additives/Colorants"
+"Erythritol","Erythritol",TRUE,222285,"(2S,3R)-butane-1,2,3,4-tetrol","C4H10O4",122.12,"C00503","HMDB0002994","17113",1,"Industrial Chemicals"
+"Choline","Choline",TRUE,305,"2-hydroxyethyl(trimethyl)azanium","C5H14NO+",104.17,"C00114","HMDB0000097","15354",1,"Endogenous Metabolites"
+"trans-Allo-ocimene","trans-beta-Ocimene",TRUE,5281553,"(3E)-3,7-dimethylocta-1,3,6-triene","C10H16",136.23,"C09873","HMDB0030089","64280",0.8333,NA
+"Uracil","Uracil",TRUE,1174,"1H-pyrimidine-2,4-dione","C4H4N2O2",112.09,"C00106","HMDB0000300","17568",1,"Endogenous Metabolites"
+"Caprolactam","Caprolactam",TRUE,7768,"azepan-2-one","C6H11NO",113.16,"C06593","HMDB0062769","28579",1,NA
+"Isocaproic acid","Isocaproic acid",TRUE,12587,"4-methylpentanoic acid","C6H12O2",116.16,"C21399","HMDB0000689","74903",1,"Endogenous Metabolites"
+"Caproic acid","Caproic acid",TRUE,8892,"hexanoic acid","C6H12O2",116.16,"C01585","HMDB0000535","30776",1,"Endogenous Metabolites"
+"Methylmalonic acid","Methylmalonic acid",TRUE,487,"2-methylpropanedioic acid","C4H6O4",118.09,"C02170","HMDB0000202","30860",1,"Endogenous Metabolites"
+"2-Methyl-3-hydroxybutyric acid","2-Methyl-3-hydroxybutyric acid",TRUE,160471,"3-hydroxy-2-methylbutanoic acid","C5H10O3",118.13,"Not_Access","HMDB0000354","37051",1,"Endogenous Metabolites"
+"2-Ethylbutanoic acid","2-Ethylbutanoic acid",TRUE,6915,"2-ethylbutanoic acid","C6H12O2",116.16,"Not_Access","HMDB0031221","173424",1,"Endogenous Metabolites"
+"2-methylpentanoate","2-methylpentanoate",TRUE,22174055,"2-methylpentanoate","C6H11O2-",115.15,"Not_Access","Not_Access","167611",1,"Endogenous Metabolites"
+"Succinate","Succinate",TRUE,160419,"butanedioate","C4H4O4-2",116.07,"Not_Access","Not_Access","30031",1,"Pesticides/Herbicides"
+"Methylmalonate","Methylmalonate",TRUE,487,"2-methylpropanedioic acid","C4H6O4",118.09,"C02170","HMDB0000202","30860",1,"Endogenous Metabolites"
+"3-hydroxybenzaldehyde","3-hydroxybenzaldehyde",TRUE,101,"3-hydroxybenzaldehyde","C7H6O2",122.12,"C03067","Not_Access","16207",1,"Endogenous Metabolites"
+"Benzoic acid","Benzoic acid",TRUE,243,"benzoic acid","C7H6O2",122.12,"C00180","HMDB0001870","30746",1,"Endogenous Metabolites"
+"4-Hydroxybenzaldehyde","4-Hydroxybenzaldehyde",TRUE,126,"4-hydroxybenzaldehyde","C7H6O2",122.12,"C00633","HMDB0011718","17597",1,"Endogenous Metabolites"
+"p-Toluquinone","p-Toluquinone",TRUE,11122,"2-methylcyclohexa-2,5-diene-1,4-dione","C7H6O2",122.12,"Not_Access","Not_Access","Not_Access",1,NA
+"Nicotinamide","Nicotinamide",TRUE,936,"pyridine-3-carboxamide","C6H6N2O",122.12,"C00153","HMDB0001406","17154",1,"Endogenous Metabolites"
+"Taurine","Taurine",TRUE,1123,"2-aminoethanesulfonic acid","C2H7NO3S",125.15,"C00245","HMDB0000251","15891",1,"Endogenous Metabolites"
+"Pyrogallol","Pyrogallol",TRUE,1057,"benzene-1,2,3-triol","C6H6O3",126.11,"C01108","HMDB0013674","16164",1,"Personal Care Products/Cosmetics"
+"Phloroglucinol","Phloroglucinol",TRUE,359,"benzene-1,3,5-triol","C6H6O3",126.11,"C02183","HMDB0013675","16204",1,"Therapeutics/Prescription Drugs"
+"Pipecolic acid","Pipecolic acid",TRUE,849,"piperidine-2-carboxylic acid","C6H11NO2",129.16,"Not_Access","HMDB0000070","17964",1,"Endogenous Metabolites"
+"Ethylmalonic acid","Ethylmalonic acid",TRUE,11756,"2-ethylpropanedioic acid","C5H8O4",132.11,"Not_Access","HMDB0000622","741548",1,"Industrial Chemicals"
+"Glutaric acid","Glutaric acid",TRUE,743,"pentanedioic acid","C5H8O4",132.11,"C00489","HMDB0000661","17859",1,NA
+"Methylsuccinic acid","Methylsuccinic acid",TRUE,10349,"2-methylbutanedioic acid","C5H8O4",132.11,"Not_Access","Not_Access","91315",1,"Endogenous Metabolites"
+"2-Hydroxyisocaproate","(R)-2-Hydroxyisocaproate",TRUE,439960,"(2R)-2-hydroxy-4-methylpentanoic acid","C6H12O3",132.16,"C03264","HMDB0000624","55534",0.9091,NA
+"3-Hydroxyhexanoic acid","3-Hydroxyhexanoic acid",TRUE,151492,"3-hydroxyhexanoic acid","C6H12O3",132.16,"Not_Access","Not_Access","37035",1,"Endogenous Metabolites"
+"6-Hydroxyhexanoic acid","6-Hydroxyhexanoic acid",TRUE,14490,"6-hydroxyhexanoic acid","C6H12O3",132.16,"C06103","HMDB0012843","17869",1,"Endogenous Metabolites"
+"2-Ethyl-2-hydroxybutyric acid","2-Ethyl-2-hydroxybutyric acid",TRUE,77199,"2-ethyl-2-hydroxybutanoic acid","C6H12O3",132.16,"Not_Access","HMDB0001975","165404",1,"Endogenous Metabolites"
+"Norleucine","Norleucine",TRUE,21236,"(2S)-2-aminohexanoic acid","C6H13NO2",131.17,"C01933","HMDB0001645","18347",1,NA
+"Isoleucine","Isoleucine",TRUE,6306,"(2S,3S)-2-amino-3-methylpentanoic acid","C6H13NO2",131.17,"C00407","HMDB0000172","17191",1,"Endogenous Metabolites"
+"Leucine","Leucine",TRUE,6106,"(2S)-2-amino-4-methylpentanoic acid","C6H13NO2",131.17,"C00123","HMDB0000687","15603",1,"Endogenous Metabolites"
+"Creatine","Creatine",TRUE,586,"2-[carbamimidoyl(methyl)amino]acetic acid","C4H9N3O2",131.13,"C00300","HMDB0000064","16919",1,"Endogenous Metabolites"
+"Malic acid","Malic acid",TRUE,525,"2-hydroxybutanedioic acid","C4H6O5",134.09,"C00711","Not_Access","6650",1,"Endogenous Metabolites"
+"Adenine","Adenine",TRUE,190,"7H-purin-6-amine","C5H5N5",135.13,"C00147","HMDB0000034","16708",1,"Endogenous Metabolites"
+"Hypoxanthine","Hypoxanthine",TRUE,135398638,"1,7-dihydropurin-6-one","C5H4N4O",136.11,"C00262","HMDB0000157","17368",1,"Endogenous Metabolites"
+"Allopurinol","Allopurinol",TRUE,135401907,"1,5-dihydropyrazolo[3,4-d]pyrimidin-4-one","C5H4N4O",136.11,"Not_Access","HMDB0014581","40279",1,"Therapeutics/Prescription Drugs"
+"N-Phenylacetamide","N-Phenylacetamide",TRUE,904,"N-phenylacetamide","C8H9NO",135.16,"C07565","HMDB0001250","28884",1,NA
+"4-Hydroxyphenylacetaldehyde","4-Hydroxyphenylacetaldehyde",TRUE,440113,"2-(4-hydroxyphenyl)acetaldehyde","C8H8O2",136.15,"C03765","HMDB0003767","15621",1,NA
+"1-Methylnicotinamide","1-Methylnicotinamide",TRUE,457,"1-methylpyridin-1-ium-3-carboxamide","C7H9N2O+",137.16,"C02918","HMDB0000699","16797",1,"Endogenous Metabolites"
+"2-Methylnicotinamide","2-Methylnicotinamide",TRUE,12243705,"2-methylpyridine-3-carboxamide","C7H8N2O",136.15,"Not_Access","HMDB0059711","68440",1,"Endogenous Metabolites"
+"Ethyl 2-methyl-3,4-pentadienoate","Ethyl 2-methyl-3,4-pentadienoate",TRUE,62166,NA,"C8H12O2",140.18,"Not_Access","HMDB0037196","195726",1,NA
+"Isophorone","Isophorone",TRUE,6544,"3,5,5-trimethylcyclohex-2-en-1-one","C9H14O",138.21,"C14743","HMDB0031195","34800",1,"Endogenous Metabolites"
+"N-Acetylcadaverine","N-Acetylcadaverine",TRUE,189087,"N-(5-aminopentyl)acetamide","C7H16N2O",144.21,"Not_Access","HMDB0002284","88824",1,NA
+"Ethyl levulinate","Ethyl levulinate",TRUE,10883,"ethyl 4-oxopentanoate","C7H12O3",144.17,"Not_Access","HMDB0040433","169371",1,"Excipients/Additives/Colorants"
+"Tetrahydrofurfuryl acetate","Tetrahydrofurfuryl acetate",TRUE,12506,"oxolan-2-ylmethyl acetate","C7H12O3",144.17,"Not_Access","HMDB0031176","169190",1,NA
+"7-Oxoheptanoic acid","7-Oxoheptanoic acid",TRUE,169732,"7-oxoheptanoic acid","C7H12O3",144.17,"C16590","Not_Access","80588",1,"Endogenous Metabolites"
+"Caprylic acid","Caprylic acid",TRUE,379,"octanoic acid","C8H16O2",144.21,"C06423","HMDB0000482","28837",1,"Endogenous Metabolites"
+"Valproic acid","Valproic acid",TRUE,3121,"2-propylpentanoic acid","C8H16O2",144.21,"C07185","HMDB0001877","39867",1,"Therapeutics/Prescription Drugs"
+"Stachydrine","Stachydrine",TRUE,115244,"(2S)-1,1-dimethylpyrrolidin-1-ium-2-carboxylate","C7H13NO2",143.18,"C10172","HMDB0004827","35280",1,"Endogenous Metabolites"
+"Adipic acid","Adipic acid",TRUE,196,"hexanedioic acid","C6H10O4",146.14,"C06104","HMDB0000448","30832",1,"Endogenous Metabolites"
+"Methyl DL-Leucate","Methyl DL-Leucate",TRUE,62908,"methyl 2-hydroxy-4-methylpentanoate","C7H14O3",146.18,"Not_Access","HMDB0036231","169035",1,NA
+"3-hydroxyheptanoic acid","3-hydroxyheptanoic acid",TRUE,3083220,"3-hydroxyheptanoic acid","C7H14O3",146.18,"Not_Access","HMDB0061653","132838",1,"Therapeutics/Prescription Drugs"
+"3-hydroxy-4-methylhexanoate","3-hydroxy-4-methylhexanoate",TRUE,22716859,"3-hydroxy-4-methylhexanoate","C7H13O3-",145.18,"Not_Access","Not_Access","Not_Access",1,NA
+"Methyl leucinate","Methyl leucinate",TRUE,410817,"methyl 2-amino-4-methylpentanoate","C7H15NO2",145.2,"Not_Access","HMDB0254597","Not_Access",1,NA
+"7-Aminoheptanoic acid","7-Aminoheptanoic acid",TRUE,13580,"7-aminoheptanoic acid","C7H15NO2",145.2,"Not_Access","HMDB0247233","181436",1,NA
+"beta-homoleucine","beta-homoleucine",TRUE,52940098,"3-azaniumyl-5-methylhexanoate","C7H15NO2",145.2,"Not_Access","Not_Access","Not_Access",1,NA
+"Spermidine","Spermidine",TRUE,1102,"N'-(3-aminopropyl)butane-1,4-diamine","C7H19N3",145.25,"C00315","HMDB0001257","16610",1,"Endogenous Metabolites"
+"Lysine","Lysine",TRUE,5962,"(2S)-2,6-diaminohexanoic acid","C6H14N2O2",146.19,"C00047","HMDB0000182","18019",1,"Endogenous Metabolites"
+"Glutamate","glutamate",TRUE,33032,"(2S)-2-aminopentanedioic acid","C5H9NO4",147.13,"C00025","HMDB0000148","53374",1,"Endogenous Metabolites"
+"Thymol","Thymol",TRUE,6989,"5-methyl-2-propan-2-ylphenol","C10H14O",150.22,"C09908","HMDB0001878","27607",1,NA
+"Methionine","methionine",TRUE,6137,"(2S)-2-amino-4-methylsulfanylbutanoic acid","C5H11NO2S",149.21,"C00073","HMDB0000696","16643",1,"Endogenous Metabolites"
+"2,6-Dimethyl-4-hydroxybenzaldehyde","2,6-Dimethyl-4-hydroxybenzaldehyde",TRUE,591072,"4-hydroxy-2,6-dimethylbenzaldehyde","C9H10O2",150.17,"Not_Access","Not_Access","Not_Access",1,NA
+"Oxypurinol","Oxypurinol",TRUE,135398752,"1,7-dihydropyrazolo[3,4-d]pyrimidine-4,6-dione","C5H4N4O2",152.11,"C07599","HMDB0000786","28315",1,NA
+"Xanthine","Xanthine",TRUE,1188,"3,7-dihydropurine-2,6-dione","C5H4N4O2",152.11,"C00385","HMDB0000292","17712",1,"Endogenous Metabolites"
+"Guanine","Guanine",TRUE,135398634,"2-amino-1,7-dihydropurin-6-one","C5H5N5O",151.13,"C00242","HMDB0000132","16235",1,"Endogenous Metabolites"
+"2-Hydroxyadenine","2-Hydroxyadenine",TRUE,76900,"6-amino-1,7-dihydropurin-2-one","C5H5N5O",151.13,"Not_Access","HMDB0000403","62462",1,NA
+"N1-Methyl-2-pyridone-5-carboxamide","N1-Methyl-2-pyridone-5-carboxamide",TRUE,69698,"1-methyl-6-oxopyridine-3-carboxamide","C7H8N2O2",152.15,"C05842","HMDB0004193","27410",1,NA
+"N1-Methyl-4-pyridone-3-carboxamide","N1-Methyl-4-pyridone-3-carboxamide",TRUE,440810,"1-methyl-4-oxopyridine-3-carboxamide","C7H8N2O2",152.15,"C05843","HMDB0004194","27838",1,NA
+"Vanillin","Vanillin",TRUE,1183,"4-hydroxy-3-methoxybenzaldehyde","C8H8O3",152.15,"C00755","HMDB0012308","18346",1,"Endogenous Metabolites"
+"2',6'-Dihydroxyacetophenone","2',6'-Dihydroxyacetophenone",TRUE,69687,"1-(2,6-dihydroxyphenyl)ethanone","C8H8O3",152.15,"Not_Access","HMDB0029660","173644",1,NA
+"3-hydroxy-5-methyl-benzoate","3-hydroxy-5-methyl-benzoate",TRUE,54711413,"3-carboxy-5-methylphenolate","C8H7O3-",151.14,"Not_Access","Not_Access","Not_Access",1,NA
+"2-methoxybenzoate","2-methoxybenzoate",TRUE,6950218,"2-methoxybenzoate","C8H7O3-",151.14,"Not_Access","Not_Access","59128",1,"Endogenous Metabolites"
+"2-Furanylmethyl propanoate","2-Furanylmethyl propanoate",TRUE,61166,"furan-2-ylmethyl propanoate","C8H10O3",154.16,"Not_Access","HMDB0037728","173660",1,"Therapeutics/Prescription Drugs"
+"2,4-Hexadienyl propionate","2,4-Hexadienyl propionate",TRUE,6386721,"[(2E,4E)-hexa-2,4-dienyl] propanoate","C9H14O2",154.21,"Not_Access","HMDB0032314","180436",1,NA
+"8-Hydroxy-5,6-octadienoic acid","8-hydroxy-5,6-octadienoic acid",TRUE,54042244,NA,"C8H12O3",156.18,"Not_Access","HMDB0031101","169068",1,NA
+"non-3-enate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Histidine","Histidine",TRUE,6274,"(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid","C6H9N3O2",155.15,"C00135","HMDB0000177","15971",1,"Endogenous Metabolites"
+"(1-Hydroxycyclohexyl)acetic acid","(1-Hydroxycyclohexyl)acetic acid",TRUE,248153,"2-(1-hydroxycyclohexyl)acetic acid","C8H14O3",158.19,"Not_Access","Not_Access","37276",1,NA
+"5-Oxooctanoic acid","5-Oxooctanoic acid",TRUE,280190,"5-oxooctanoic acid","C8H14O3",158.19,"Not_Access","Not_Access","180337",1,NA
+"Hexyl acrylate","Hexyl acrylate",TRUE,17259,"hexyl prop-2-enoate","C9H16O2",156.22,"Not_Access","HMDB0253165","Not_Access",1,NA
+"Pimelic acid","Pimelic acid",TRUE,385,"heptanedioic acid","C7H12O4",160.17,"C02656","HMDB0000857","30531",1,"Endogenous Metabolites"
+"3-Methyladipic acid","3-Methyladipic acid",TRUE,12292,"3-methylhexanedioic acid","C7H12O4",160.17,"Not_Access","Not_Access","68503",1,"Endogenous Metabolites"
+"Propyleneglycol diacetate","Propyleneglycol diacetate",TRUE,12198,"2-acetyloxypropyl acetate","C7H12O4",160.17,"Not_Access","HMDB0041605","173692",1,NA
+"2-Propylsuccinic acid","2-Propylsuccinic acid",TRUE,3031829,"2-propylbutanedioic acid","C7H12O4",160.17,"C16657","Not_Access","80643",1,"Endogenous Metabolites"
+"Diethyl malonate","Diethyl malonate",TRUE,7761,"diethyl propanedioate","C7H12O4",160.17,"Not_Access","HMDB0029573","167785",1,"Endogenous Metabolites"
+"2-Hydroxyoctanoic acid","2-Hydroxyoctanoic acid",TRUE,94180,"2-hydroxyoctanoic acid","C8H16O3",160.21,"Not_Access","HMDB0000711","86543",1,NA
+"5-Hydroxyvalproic acid","5-Hydroxyvalproic acid",TRUE,135244,"5-hydroxy-2-propylpentanoic acid","C8H16O3",160.21,"C16650","HMDB0013898","80636",1,NA
+"2-Aminooctanoic acid","2-Aminooctanoic acid",TRUE,69522,"2-aminooctanoic acid","C8H17NO2",159.23,"Not_Access","HMDB0000991","75145",1,"Endogenous Metabolites"
+"Carnitine","Carnitine",TRUE,288,"3-hydroxy-4-(trimethylazaniumyl)butanoate","C7H15NO3",161.2,"Not_Access","Not_Access","17126",1,"Endogenous Metabolites"
+"3-Diethylaminophenol","3-Diethylaminophenol",TRUE,7062,"3-(diethylamino)phenol","C10H15NO",165.23,"Not_Access","Not_Access","Not_Access",1,NA
+"Desaminotyrosine","Desaminotyrosine",TRUE,10394,"3-(4-hydroxyphenyl)propanoic acid","C9H10O3",166.17,"C01744","HMDB0002199","32980",1,"Endogenous Metabolites"
+"Ethyl 3-hydroxybenzoate","Ethyl 3-hydroxybenzoate",TRUE,24522,"ethyl 3-hydroxybenzoate","C9H10O3",166.17,"Not_Access","Not_Access","Not_Access",1,NA
+"Ethyl 4-hydroxybenzoate","Ethyl 4-hydroxybenzoate",TRUE,8434,"ethyl 4-hydroxybenzoate","C9H10O3",166.17,"Not_Access","HMDB0032573","31575",1,"Endogenous Metabolites"
+"Duroquinone","Duroquinone",TRUE,68238,"2,3,5,6-tetramethylcyclohexa-2,5-diene-1,4-dione","C10H12O2",164.2,"Not_Access","Not_Access","42023",1,NA
+"7-Methylguanine","7-Methylguanine",TRUE,135398679,"2-amino-7-methyl-1H-purin-6-one","C6H7N5O",165.15,"C02242","HMDB0000897","28664",1,"Endogenous Metabolites"
+"1-Methylguanine","1-Methylguanine",TRUE,70315,"2-amino-1-methyl-7H-purin-6-one","C6H7N5O",165.15,"Not_Access","HMDB0003282","21803",1,"Endogenous Metabolites"
+"Phenyl-Alanine","Phenyl-Alanine",TRUE,817923,"(2S)-2-anilinopropanoic acid","C9H11NO2",165.19,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"5-(3-Pyridyl)-2-hydroxytetrahydrofuran","5-(3-Pyridyl)-2-hydroxytetrahydrofuran",TRUE,179630,"5-pyridin-3-yloxolan-2-ol","C9H11NO2",165.19,"C19578","HMDB0062407","82572",1,NA
+"Benzocaine","Benzocaine",TRUE,2337,"ethyl 4-aminobenzoate","C9H11NO2",165.19,"C07527","HMDB0004992","116735",1,"Therapeutics/Prescription Drugs"
+"Phenylalanine","Phenylalanine",TRUE,6140,"(2S)-2-amino-3-phenylpropanoic acid","C9H11NO2",165.19,"C00079","HMDB0000159","17295",1,"Endogenous Metabolites"
+"Methionine sulfoxide","Methionine sulfoxide",TRUE,158980,"(2S)-2-amino-4-methylsulfinylbutanoic acid","C5H11NO3S",165.21,"C02989","HMDB0002005","17016",1,"Endogenous Metabolites"
+"Uric acid","Uric acid",TRUE,1175,"7,9-dihydro-3H-purine-2,6,8-trione","C5H4N4O3",168.11,"C00366","HMDB0000289","17775",1,"Endogenous Metabolites"
+"4-Ethoxybenzoic acid","4-Ethoxybenzoic acid",TRUE,12093,"4-ethoxybenzoic acid","C9H10O3",166.17,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"4-Ipomeanol","4-Ipomeanol",TRUE,36284,"1-(furan-3-yl)-4-hydroxypentan-1-one","C9H12O3",168.19,"Not_Access","HMDB0030472","173764",1,NA
+"Ethyl 2-furanpropionate","Ethyl 2-furanpropionate",TRUE,61450,"ethyl 3-(furan-2-yl)propanoate","C9H12O3",168.19,"Not_Access","HMDB0032921","173767",1,NA
+"(3,4-Dimethoxyphenyl)methanol","(3,4-Dimethoxyphenyl)methanol",TRUE,7118,"(3,4-dimethoxyphenyl)methanol","C9H12O3",168.19,"C21420","Not_Access","62150",1,NA
+"3,5-Hexadienyl butyrate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8-Methyl-6-nonenoic acid","8-Methyl-6-nonenoic acid",TRUE,5365959,"(E)-8-methylnon-6-enoic acid","C10H18O2",170.25,"C18202","HMDB0012183","81581",1,NA
+"cis-3-Hexenyl pyruvate","cis-3-Hexenyl pyruvate",TRUE,5363291,"[(Z)-hex-3-enyl] 2-oxopropanoate","C9H14O3",170.21,"Not_Access","HMDB0038276","173782",1,NA
+"2-Octenedioic acid","2-Octenedioic acid",TRUE,6079438,"(E)-oct-2-enedioic acid","C8H12O4",172.18,"Not_Access","HMDB0000341","89192",1,NA
+"2-Methylpropyl 3-hydroxy-2-methylidenebutanoate","2-Methylpropyl 3-hydroxy-2-methylidenebutanoate",TRUE,546207,"2-methylpropyl 3-hydroxy-2-methylidenebutanoate","C9H16O3",172.22,"Not_Access","HMDB0040203","171944",1,NA
+"3-hydroxy-4-methyloct-6-enoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3-Methylbutyl 3-oxobutanoate","3-Methylbutyl 3-oxobutanoate",TRUE,61296,"3-methylbutyl 3-oxobutanoate","C9H16O3",172.22,"Not_Access","HMDB0036396","171946",1,NA
+"9-Oxononanoic acid","9-Oxononanoic acid",TRUE,75704,"9-oxononanoic acid","C9H16O3",172.22,"C16322","HMDB0094711","78700",1,NA
+"4-hydroperoxyoctadeca-t-2-nonenal","4-hydroperoxyoctadeca-t-2-nonenal",TRUE,6435432,"(E)-4-hydroperoxynon-2-enal","C9H16O3",172.22,"Not_Access","HMDB0060287","171939",1,NA
+"N-Acetylisoleucine","N-Acetylisoleucine",TRUE,7036275,"(2S,3S)-2-acetamido-3-methylpentanoic acid","C8H15NO3",173.21,"Not_Access","HMDB0061684","21555",1,NA
+"Isovalerylsarcosine","Isovalerylsarcosine",TRUE,137394,"2-[methyl(3-methylbutanoyl)amino]acetic acid","C8H15NO3",173.21,"Not_Access","HMDB0002087","136917",1,NA
+"Isovalerylalanine","Isovalerylalanine",TRUE,129285,"(2S)-2-(3-methylbutanoylamino)propanoic acid","C8H15NO3",173.21,"Not_Access","HMDB0000747","136818",1,NA
+"cis-Aconitic acid","cis-Aconitic acid",TRUE,643757,"(Z)-prop-1-ene-1,2,3-tricarboxylic acid","C6H6O6",174.11,"C00417","HMDB0000072","32805",1,"Endogenous Metabolites"
+"Phenylsulfate","Phenylsulfate",TRUE,74426,"phenyl hydrogen sulfate","C6H6O4S",174.18,"C02180","HMDB0060015","27905",1,NA
+"sn-Glycerol 3-phosphate","sn-Glycerol 3-phosphate",TRUE,439162,"[(2R)-2,3-dihydroxypropyl] dihydrogen phosphate","C3H9O6P",172.07,"C00093","HMDB0000126","15978",1,"Endogenous Metabolites"
+"Suberic acid","Suberic acid",TRUE,10457,"octanedioic acid","C8H14O4",174.19,"C08278","HMDB0000893","9300",1,"Endogenous Metabolites"
+"2-methylpropyl 2-methyl-3-oxobutanoate","2-methylpropyl 2-methyl-3-oxobutanoate",TRUE,13724657,"2-methylpropyl 2-methyl-3-oxobutanoate","C9H16O3",172.22,"Not_Access","Not_Access","Not_Access",1,NA
+"N5-Ethyl-glutamine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Formyllysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"valyl-glycine","valyl-glycine",TRUE,6993111,"2-[[(2S)-2-amino-3-methylbutanoyl]amino]acetic acid","C7H14N2O3",174.2,"Not_Access","HMDB0029127","73699",1,NA
+"4-Methyl-1-phenyl-2-pentanone","4-Methyl-1-phenyl-2-pentanone",TRUE,219672,"4-methyl-1-phenylpentan-2-one","C12H16O",176.25,"Not_Access","HMDB0031569","169560",1,NA
+"1-Phenyl-2-hexanone","1-Phenyl-2-hexanone",TRUE,33191,"1-phenylhexan-2-one","C12H16O",176.25,"Not_Access","HMDB0094661","145957",1,NA
+"Ethyl cinnamate","Ethyl cinnamate",TRUE,637758,"ethyl (E)-3-phenylprop-2-enoate","C11H12O2",176.21,"C06359","Not_Access","4895",1,"Endogenous Metabolites"
+"2-Propenyl phenylacetate","2-Propenyl phenylacetate",TRUE,15717,"prop-2-enyl 2-phenylacetate","C11H12O2",176.21,"Not_Access","HMDB0036905","168585",1,NA
+"3-Succinoylpyridine","3-Succinoylpyridine",TRUE,437,"4-oxo-4-pyridin-3-ylbutanoic acid","C9H9NO3",179.17,"C19569","HMDB0000992","66951",1,"Endogenous Metabolites"
+"Hippuric acid","Hippuric acid",TRUE,464,"2-benzamidoacetic acid","C9H9NO3",179.17,"C01586","HMDB0000714","18089",1,"Endogenous Metabolites"
+"2,2-Dimethyl-3,4-dihydro-2H-1,4-benzoxazin-3-one","2,2-Dimethyl-3,4-dihydro-2H-1,4-benzoxazin-3-one",TRUE,10607395,"2,2-dimethyl-4H-1,4-benzoxazin-3-one","C10H11NO2",177.2,"Not_Access","Not_Access","Not_Access",1,NA
+"5-Hydroxytryptophol (5HTOL)","5-Hydroxytryptophol",TRUE,9061,"3-(2-hydroxyethyl)-1H-indol-5-ol","C10H11NO2",177.2,"Not_Access","HMDB0001855","89825",0.8261,NA
+"3-(4-Methoxyphenyl)propanoic acid","3-(4-Methoxyphenyl)propanoic acid",TRUE,95750,"3-(4-methoxyphenyl)propanoic acid","C10H12O3",180.2,"Not_Access","Not_Access","Not_Access",1,NA
+"3-(3-Methoxyphenyl)propanoic acid","3-(3-Methoxyphenyl)propanoic acid",TRUE,66336,"3-(3-methoxyphenyl)propanoic acid","C10H12O3",180.2,"Not_Access","HMDB0011751","88439",1,NA
+"Propyl paraben","Propyl paraben",TRUE,7175,"propyl 4-hydroxybenzoate","C10H12O3",180.2,"Not_Access","HMDB0032574","32063",1,"Endogenous Metabolites"
+"3-(4-Hydroxy-2-methoxyphenyl)-2-propenal","3-(4-Hydroxy-2-methoxyphenyl)-2-propenal",TRUE,5374604,"(E)-3-(4-hydroxy-2-methoxyphenyl)prop-2-enal","C10H10O3",178.18,"Not_Access","HMDB0039471","189757",1,NA
+"4-methoxycinnamate","Ethyl 4-Methoxycinnamate",TRUE,5281783,"ethyl (E)-3-(4-methoxyphenyl)prop-2-enoate","C12H14O3",206.24,"C10476","HMDB0030762","228868",0.8571,NA
+"trans-2-Methoxycinnamic acid","trans-2-Methoxycinnamic acid",TRUE,734154,"(E)-3-(2-methoxyphenyl)prop-2-enoic acid","C10H10O3",178.18,"Not_Access","HMDB0302514","136676",1,"Endogenous Metabolites"
+"Phenyl valerate","Phenyl valerate",TRUE,29950,"phenyl pentanoate","C11H14O2",178.23,"Not_Access","HMDB0256425","Not_Access",1,NA
+"p-Tolyl isobutyrate","p-Tolyl isobutyrate",TRUE,7685,"(4-methylphenyl) 2-methylpropanoate","C11H14O2",178.23,"Not_Access","HMDB0037708","173829",1,NA
+"Isopropyl phenylacetate","Isopropyl phenylacetate",TRUE,62553,"propan-2-yl 2-phenylacetate","C11H14O2",178.23,"Not_Access","HMDB0040426","173835",1,NA
+"Phenacetin","Phenacetin",TRUE,4754,"N-(4-ethoxyphenyl)acetamide","C10H13NO2",179.22,"C07591","HMDB0256387","8050",1,"Therapeutics/Prescription Drugs"
+"phenylalanine methyl ester","phenylalanine methyl ester",TRUE,736234,"methyl (2S)-2-amino-3-phenylpropanoate","C10H13NO2",179.22,"Not_Access","Not_Access","49339",1,"Excipients/Additives/Colorants"
+"Methyl N,N-dimethylanthranilate","Methyl N,N-dimethylanthranilate",TRUE,82336,"methyl 2-(dimethylamino)benzoate","C10H13NO2",179.22,"Not_Access","HMDB0303257","Not_Access",1,NA
+"o-Tyrosine","o-Tyrosine",TRUE,91482,"2-amino-3-(2-hydroxyphenyl)propanoic acid","C9H11NO3",181.19,"Not_Access","HMDB0006050","91038",1,"Endogenous Metabolites"
+"Homovanillate","Homovanillate",TRUE,1738,"2-(4-hydroxy-3-methoxyphenyl)acetic acid","C9H10O4",182.17,"C05582","HMDB0000118","545959",1,NA
+"3,4-dimethoxybenzoate","3,4-dimethoxybenzoate",TRUE,6950588,"3,4-dimethoxybenzoate","C9H9O4-",181.16,"Not_Access","Not_Access","232416",1,"Therapeutics/Prescription Drugs"
+"2,2-Dihydroxy-3-phenylpropanoic acid","2,2-Dihydroxy-3-phenylpropanoic acid",TRUE,20849046,"2,2-dihydroxy-3-phenylpropanoic acid","C9H10O4",182.17,"Not_Access","HMDB0251348","Not_Access",1,NA
+"Furfuryl pentanoate","Furfuryl pentanoate",TRUE,61955,"furan-2-ylmethyl pentanoate","C10H14O3",182.22,"Not_Access","HMDB0037727","179569",1,NA
+"Amyl 2-furoate","Amyl 2-furoate",TRUE,74008,"pentyl furan-2-carboxylate","C10H14O3",182.22,"Not_Access","HMDB0029456","172428",1,NA
+"4-(Ethoxymethyl)-2-methoxyphenol","4-(Ethoxymethyl)-2-methoxyphenol",TRUE,61586,"4-(ethoxymethyl)-2-methoxyphenol","C10H14O3",182.22,"Not_Access","HMDB0037641","179570",1,NA
+"Caffeic acid","Caffeic acid",TRUE,689043,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid","C9H8O4",180.16,"C01197","HMDB0001964","16433",1,"Endogenous Metabolites"
+"Tyrosine","Tyrosine",TRUE,6057,"(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid","C9H11NO3",181.19,"C00082","HMDB0000158","17895",1,"Endogenous Metabolites"
+"2-Ethoxy-4-(methoxymethyl)phenol","2-Ethoxy-4-(methoxymethyl)phenol",TRUE,6453284,"2-ethoxy-4-(methoxymethyl)phenol","C10H14O3",182.22,"Not_Access","HMDB0038354","179564",1,NA
+"Isoamyl 2-furoate","Isoamyl 2-furoate",TRUE,69203,"3-methylbutyl furan-2-carboxylate","C10H14O3",182.22,"Not_Access","HMDB0059891","179565",1,NA
+"4-Ethyl-2,6-dimethoxyphenol","4-Ethyl-2,6-dimethoxyphenol",TRUE,61712,"4-ethyl-2,6-dimethoxyphenol","C10H14O3",182.22,"Not_Access","HMDB0033394","179568",1,NA
+"10-Oxo-8-decenoic acid","10-Oxo-8-decenoic acid",TRUE,12431569,"(E)-10-oxodec-8-enoic acid","C10H16O3",184.23,"Not_Access","HMDB0040883","168922",1,NA
+"N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide","N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide",TRUE,129397,"N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide","C9H16N2O2",184.24,"Not_Access","HMDB0061384","133185",1,NA
+"Royal jelly acid","Royal jelly acid",TRUE,5312738,"(E)-10-hydroxydec-2-enoic acid","C10H18O3",186.25,"Not_Access","HMDB0244269","78668",1,NA
+"Pivagabine","Pivagabine",TRUE,68888,"4-(2,2-dimethylpropanoylamino)butanoic acid","C9H17NO3",187.24,"Not_Access","HMDB0246575","134834",1,NA
+"2-Butenyl-4-methyl-threonine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8-Amino-7-oxononanoate","8-Amino-7-oxononanoate",TRUE,5460197,"8-amino-7-oxononanoate","C9H16NO3-",186.23,"Not_Access","Not_Access","12266",1,NA
+"Prolylalanine","Prolylalanine",TRUE,418041,"2-(pyrrolidine-2-carbonylamino)propanoic acid","C8H14N2O3",186.21,"Not_Access","HMDB0029010","Not_Access",1,NA
+"2-Oxosuberate","2-Oxosuberate",TRUE,146903,"2-oxooctanedioic acid","C8H12O5",188.18,"C16589","Not_Access","80587",1,NA
+"Azelaic acid","Azelaic acid",TRUE,2266,"nonanedioic acid","C9H16O4",188.22,"C08261","HMDB0000784","48131",1,"Endogenous Metabolites"
+"propyl 2-acetylpentanoate","propyl 2-acetylpentanoate",TRUE,88638897,"propyl 2-acetylpentanoate","C10H18O3",186.25,"Not_Access","Not_Access","Not_Access",1,NA
+"Cyclohexyl propan-2-yl carbonate","Cyclohexyl propan-2-yl carbonate",TRUE,22123692,"cyclohexyl propan-2-yl carbonate","C10H18O3",186.25,"Not_Access","HMDB0250658","Not_Access",1,NA
+"2-Oxodecanoic acid","2-Oxodecanoic acid",TRUE,259794,"2-oxodecanoic acid","C10H18O3",186.25,"C13945","Not_Access","34301",1,NA
+"6-Acetamido-3-aminohexanoate","6-Acetamido-3-aminohexanoate",TRUE,5459888,"6-acetamido-3-aminohexanoate","C8H15N2O3-",187.22,"Not_Access","Not_Access","17125",1,NA
+"gamma-glutamyl-isopropylamide","gamma-glutamyl-isopropylamide",TRUE,6993183,"(2S)-2-azaniumyl-5-oxo-5-(propan-2-ylamino)pentanoate","C8H16N2O3",188.22,"Not_Access","Not_Access","85420",1,NA
+"N-(3-Amino-3-oxopropyl)-valine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alanyl-valine","alanyl-valine",TRUE,96799,"(2S)-2-[[(2S)-2-aminopropanoyl]amino]-3-methylbutanoic acid","C8H16N2O3",188.22,"Not_Access","HMDB0028700","73809",1,NA
+"glycyl-isoleucine","glycyl-isoleucine",TRUE,88079,"(2S,3S)-2-[(2-aminoacetyl)amino]-3-methylpentanoic acid","C8H16N2O3",188.22,"Not_Access","Not_Access","73907",1,NA
+"N2-Acetyl-lysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Glycylleucine","Glycylleucine",TRUE,102468,"2-[(2-aminoacetyl)amino]-4-methylpentanoic acid","C8H16N2O3",188.22,"Not_Access","Not_Access","Not_Access",1,NA
+"Butyl ethyl malonate","Butyl ethyl malonate",TRUE,5140436,"3-O-butyl 1-O-ethyl propanedioate","C9H16O4",188.22,"Not_Access","HMDB0036233","173898",1,NA
+"Citric acid","Citric acid",TRUE,311,"2-hydroxypropane-1,2,3-tricarboxylic acid","C6H8O7",192.12,"C00158","HMDB0000094","30769",1,"Endogenous Metabolites"
+"Ligustilide","Ligustilide",TRUE,5319022,"(3Z)-3-butylidene-4,5-dihydro-2-benzofuran-1-one","C12H14O2",190.24,"C16987","HMDB0259970","68232",1,NA
+"Diethyltoluamide","Diethyltoluamide",TRUE,4284,"N,N-diethyl-3-methylbenzamide","C12H17NO",191.27,"C10935","HMDB0250930","7071",1,NA
+"Isobutyl salicylate","Isobutyl salicylate",TRUE,6873,"2-methylpropyl 2-hydroxybenzoate","C11H14O3",194.23,"Not_Access","HMDB0036432","173947",1,NA
+"Butylparaben","Butylparaben",TRUE,7184,"butyl 4-hydroxybenzoate","C11H14O3",194.23,"Not_Access","HMDB0032575","88542",1,"Excipients/Additives/Colorants"
+"Benzyl acetoacetate","Benzyl acetoacetate",TRUE,142266,"benzyl 3-oxobutanoate","C11H12O3",192.21,"Not_Access","HMDB0040446","173928",1,NA
+"Isomyristicin","Isomyristicin",TRUE,6436484,"4-methoxy-6-[(E)-prop-1-enyl]-1,3-benzodioxole","C11H12O3",192.21,"Not_Access","HMDB0035275","173923",1,NA
+"Myristicin","Myristicin",TRUE,4276,"4-methoxy-6-prop-2-enyl-1,3-benzodioxole","C11H12O3",192.21,"C10480","HMDB0035873","68234",1,"Endogenous Metabolites"
+"Isobutylparaben","Isobutylparaben",TRUE,20240,"2-methylpropyl 4-hydroxybenzoate","C11H14O3",194.23,"C20342","HMDB0253608","178256",1,NA
+"Butyl salicylate","Butyl salicylate",TRUE,16330,"butyl 2-hydroxybenzoate","C11H14O3",194.23,"Not_Access","HMDB0040730","173949",1,NA
+"3-Methylbutyl benzoate","3-Methylbutyl benzoate",TRUE,7193,"3-methylbutyl benzoate","C12H16O2",192.25,"Not_Access","HMDB0033380","179910",1,NA
+"1-Phenylethyl isobutyrate","1-Phenylethyl isobutyrate",TRUE,569214,"1-phenylethyl 2-methylpropanoate","C12H16O2",192.25,"Not_Access","HMDB0037716","179913",1,NA
+"4-Methylphenyl 3-methylbutanoate","4-Methylphenyl 3-methylbutanoate",TRUE,62092,"(4-methylphenyl) 3-methylbutanoate","C12H16O2",192.25,"Not_Access","HMDB0037709","179912",1,NA
+"Sedanonic acid lactone","Sedanonic acid lactone",TRUE,10932278,"(3Z)-3-butylidene-4,5,6,7-tetrahydro-2-benzofuran-1-one","C12H16O2",192.25,"C17875","Not_Access","133890",1,NA
+"2-Methylpropyl 2-aminobenzoate","2-Methylpropyl 2-aminobenzoate",TRUE,24515,"2-methylpropyl 2-aminobenzoate","C11H15NO2",193.24,"Not_Access","HMDB0035072","179249",1,NA
+"Butyl 2-aminobenzoate","Butyl 2-aminobenzoate",TRUE,24433,"butyl 2-aminobenzoate","C11H15NO2",193.24,"Not_Access","HMDB0036906","86192",1,NA
+"Caffeine","Caffeine",TRUE,2519,"1,3,7-trimethylpurine-2,6-dione","C8H10N4O2",194.19,"C07481","HMDB0001847","27732",1,"Endogenous Metabolites"
+"Xanthoxylin","Xanthoxylin",TRUE,66654,"1-(2-hydroxy-4,6-dimethoxyphenyl)ethanone","C10H12O4",196.2,"C10726","HMDB0029645","10070",1,NA
+"Isobutyl 2-furanpropionate","Isobutyl 2-furanpropionate",TRUE,7733,"2-methylpropyl 3-(furan-2-yl)propanoate","C11H16O3",196.24,"Not_Access","HMDB0037734","169336",1,NA
+"Hexyl 2-furoate","Hexyl 2-furoate",TRUE,61984,"hexyl furan-2-carboxylate","C11H16O3",196.24,"Not_Access","HMDB0037725","169465",1,NA
+"1-(2-Furanyl)-1-octanone","1-(2-Furanyl)-1-octanone",TRUE,228593,"1-(furan-2-yl)octan-1-one","C12H18O2",194.27,"Not_Access","HMDB0040439","229406",1,NA
+"4-Hexyloxyphenol","4-Hexyloxyphenol",TRUE,29354,"4-hexoxyphenol","C12H18O2",194.27,"C14305","Not_Access","34407",1,"Extractables/Leachables"
+"Ethyl Decatrienoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dodecatrienoic acid","Dodecatrienoic acid",TRUE,87558245,"(2E,4E,6E)-dodeca-2,4,6-trienoic acid","C12H18O2",194.27,"Not_Access","HMDB0302622","Not_Access",1,NA
+"3-(prop-1-en-2-yl)heptanedioate","3-(prop-1-en-2-yl)heptanedioate",TRUE,46173095,"3-prop-1-en-2-ylheptanedioate","C10H14O4-2",198.22,"Not_Access","Not_Access","Not_Access",1,NA
+"9-Hydroxy-10-undecenoic acid","(S)-9-Hydroxy-10-undecenoic acid",TRUE,73242170,"(9S)-9-hydroxyundec-10-enoic acid","C11H20O3",200.27,"Not_Access","Not_Access","165422",0.9333,NA
+"3-Nonanon-1-yl acetate","3-Nonanon-1-yl acetate",TRUE,12678469,"3-oxononyl acetate","C11H20O3",200.27,"Not_Access","HMDB0037179","174008",1,NA
+"Diethyl 2-methyl-3-oxosuccinate","Diethyl 2-methyl-3-oxosuccinate",TRUE,97750,"diethyl 2-methyl-3-oxobutanedioate","C9H14O5",202.2,"C04067","HMDB0032306","16879",1,NA
+"Sebacic acid","Sebacic acid",TRUE,5192,"decanedioic acid","C10H18O4",202.25,"C08277","HMDB0000792","41865",1,"Endogenous Metabolites"
+"Glutamic acid diethyl ester","Glutamic acid diethyl ester",TRUE,73961,"diethyl (2S)-2-aminopentanedioate","C9H17NO4",203.24,"Not_Access","Not_Access","Not_Access",1,NA
+"2-amino-3-[indol-3-ylidene]propanoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"IPA imine","IPA imine",TRUE,5599,"2-imino-3-(1H-indol-3-yl)propanoic acid","C11H10N2O2",202.21,"C21124","Not_Access","59193",1,NA
+"alpha,beta-Didehydrotryptophan","alpha,beta-Didehydrotryptophan",TRUE,5280990,"(Z)-2-amino-3-(1H-indol-3-yl)prop-2-enoic acid","C11H10N2O2",202.21,"C06732","Not_Access","15802",1,NA
+"n2-Acetyl,n6-methyllysine","n2-Acetyl,n6-methyllysine",TRUE,131864122,"(2S)-2-acetamido-6-(methylamino)hexanoic acid","C9H18N2O3",202.25,"Not_Access","HMDB0242186","232957",1,NA
+"N2-acetyl-Lysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"isoleucyl-alanine","isoleucyl-alanine",TRUE,7009577,"(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]propanoic acid","C9H18N2O3",202.25,"Not_Access","Not_Access","74062",1,NA
+"alanyl-isoleucine","alanyl-isoleucine",TRUE,7408079,"(2S,3S)-2-[[(2S)-2-aminopropanoyl]amino]-3-methylpentanoic acid","C9H18N2O3",202.25,"Not_Access","HMDB0028690","73805",1,NA
+"alanyl-leucine","alanyl-leucine",TRUE,96801,"(2S)-2-[[(2S)-2-aminopropanoyl]amino]-4-methylpentanoic acid","C9H18N2O3",202.25,"Not_Access","HMDB0028691","73770",1,NA
+"N-alpha-acetyl lysine methyl ester","N-Alpha-acetyllysine",TRUE,192590,"2-acetamido-6-aminohexanoic acid","C8H16N2O3",188.22,"Not_Access","Not_Access","Not_Access",0.7407,NA
+"Spermine","Spermine",TRUE,1103,"N,N'-bis(3-aminopropyl)butane-1,4-diamine","C10H26N4",202.34,"C00750","HMDB0001256","15746",1,"Endogenous Metabolites"
+"2-Hydroxyglutaric acid diethyl ester","2-Hydroxyglutaric acid diethyl ester",TRUE,13270883,"diethyl 2-hydroxypentanedioate","C9H16O5",204.22,"Not_Access","HMDB0303910","87295",1,NA
+"Diethyl 2-methyl-3-hydroxysuccinate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oxalic acid dibutyl ester","Oxalic acid dibutyl ester",TRUE,16306,"dibutyl oxalate","C10H18O4",202.25,"Not_Access","HMDB0040196","169625",1,NA
+"Acetylcarnitine (C2:0)","acetylcarnitine",TRUE,7045767,"(3R)-3-acetyloxy-4-(trimethylazaniumyl)butanoate","C9H17NO4",203.24,"Not_Access","HMDB0000201","57589",0.8108,"Endogenous Metabolites"
+"N5-(1-carboxyethyl)-ornithine","N5-(1-carboxyethyl)-ornithine",TRUE,21130406,"(2S)-2-amino-5-(1-carboxyethylamino)pentanoic acid","C8H16N2O4",204.22,"Not_Access","Not_Access","Not_Access",1,NA
+"N-(gamma-glutamyl)-alaninol",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"N6-Acetyl-5S-hydroxy-lysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Diethyl tartrate","Diethyl tartrate",TRUE,62333,"diethyl 2,3-dihydroxybutanedioate","C8H14O6",206.19,"Not_Access","HMDB0033584","169338",1,NA
+"Tryptophan","Tryptophan",TRUE,6305,"(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid","C11H12N2O2",204.22,"C00078","HMDB0000929","16828",1,"Endogenous Metabolites"
+"Xanthurenic acid","Xanthurenic acid",TRUE,5699,"8-hydroxy-4-oxo-1H-quinoline-2-carboxylic acid","C10H7NO4",205.17,"C02470","HMDB0000881","10072",1,"Endogenous Metabolites"
+"Monoethylglycinexylidide (MEGX)","Monoethylglycinexylidide",TRUE,24415,"N-(2,6-dimethylphenyl)-2-(ethylamino)acetamide","C12H18N2O",206.28,"C16561","HMDB0060656","222828",0.8727,"Therapeutics/Prescription Drugs"
+"3-Methylbutyl phenylacetate","3-Methylbutyl phenylacetate",TRUE,7600,"3-methylbutyl 2-phenylacetate","C13H18O2",206.28,"Not_Access","HMDB0035008","191542",1,NA
+"2-Phenylpropyl butyrate","2-Phenylpropyl butyrate",TRUE,576263,"2-phenylpropyl butanoate","C13H18O2",206.28,"Not_Access","HMDB0034469","Not_Access",1,NA
+"2-Phenylpropyl isobutyrate","2-Phenylpropyl isobutyrate",TRUE,576240,"2-phenylpropyl 2-methylpropanoate","C13H18O2",206.28,"Not_Access","HMDB0034470","Not_Access",1,NA
+"1-Phenylpropyl butyrate","1-Phenylpropyl butyrate",TRUE,61447,"1-phenylpropyl butanoate","C13H18O2",206.28,"Not_Access","HMDB0036386","Not_Access",1,NA
+"2-Phenylethyl 2-methylbutanoate","2-Phenylethyl 2-methylbutanoate",TRUE,520148,"2-phenylethyl 2-methylbutanoate","C13H18O2",206.28,"Not_Access","HMDB0037720","Not_Access",1,NA
+"Benzyl hexanoate","Benzyl hexanoate",TRUE,23367,"benzyl hexanoate","C13H18O2",206.28,"Not_Access","HMDB0032176","Not_Access",1,NA
+"3-(Dimethylamino)propyl benzoate","3-(Dimethylamino)propyl benzoate",TRUE,2249229,"3-(dimethylamino)propyl benzoate","C12H17NO2",207.27,"C14168","Not_Access","34327",1,NA
+"Kynurenine","Kynurenine",TRUE,846,"2-amino-4-(2-aminophenyl)-4-oxobutanoic acid","C10H12N2O3",208.21,"C01718","HMDB0250769","28683",1,"Endogenous Metabolites"
+"Benzyl 2-methyl-3-hydroxybutanoate","Benzyl 2-methyl-3-hydroxybutanoate",TRUE,3376636,"benzyl 3-hydroxy-2-methylbutanoate","C12H16O3",208.25,"Not_Access","Not_Access","22748",1,NA
+"2-Phenoxyethyl isobutyrate","2-Phenoxyethyl isobutyrate",TRUE,61005,"2-phenoxyethyl 2-methylpropanoate","C12H16O3",208.25,"Not_Access","HMDB0040218","173600",1,NA
+"Isoamyl salicylate","Isoamyl salicylate",TRUE,6874,"3-methylbutyl 2-hydroxybenzoate","C12H16O3",208.25,"Not_Access","HMDB0040225","173601",1,NA
+"Amyl salicylate","Amyl salicylate",TRUE,16299,"pentyl 2-hydroxybenzoate","C12H16O3",208.25,"Not_Access","HMDB0038604","88386",1,NA
+"4-Heptyloxyphenol","4-Heptyloxyphenol",TRUE,25641,"4-heptoxyphenol","C13H20O2",208.3,"C14236","HMDB0246434","34406",1,NA
+"5,6-Epoxy-7-megastigmen-9-one",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Leucylproline (Leu-Pro)","Leucylproline",TRUE,80817,"(2S)-1-[(2S)-2-amino-4-methylpentanoyl]pyrrolidine-2-carboxylic acid","C11H20N2O3",228.29,"Not_Access","HMDB0011175","73580",0.7222,"Endogenous Metabolites"
+"3,4-Methyleneazelaic acid","3,4-Methyleneazelaic acid",TRUE,122517586,"3,4-dimethylidenenonanedioic acid","C11H16O4",212.24,"Not_Access","HMDB0059744","89902",1,NA
+"4-(Butoxymethyl)-2-methoxyphenol","4-(Butoxymethyl)-2-methoxyphenol",TRUE,5084146,"4-(butoxymethyl)-2-methoxyphenol","C12H18O3",210.27,"Not_Access","HMDB0037642","Not_Access",1,NA
+"Isoamyl 2-furonpropionate","Isoamyl 2-furonpropionate",TRUE,538506,"3-methylbutyl 3-(furan-2-yl)propanoate","C12H18O3",210.27,"Not_Access","HMDB0037735","230789",1,NA
+"Jasmonic acid","Jasmonic acid",TRUE,5281166,"2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid","C12H18O3",210.27,"C08491","HMDB0032797","18292",1,"Endogenous Metabolites"
+"Traumatin","Traumatin",TRUE,5312889,"(E)-12-oxododec-10-enoic acid","C12H20O3",212.28,"C16309","HMDB0037326","19144",1,NA
+"Dihydrojasmonic acid","Dihydrojasmonic acid",TRUE,107126,"2-(3-oxo-2-pentylcyclopentyl)acetic acid","C12H20O3",212.28,"Not_Access","HMDB0033601","177664",1,NA
+"Cucurbic acid","Cucurbic acid",TRUE,6123064,"2-[3-hydroxy-2-[(E)-pent-2-enyl]cyclopentyl]acetic acid","C12H20O3",212.28,"Not_Access","HMDB0029388","Not_Access",1,NA
+"Val-Val","Val-Val",TRUE,107475,"(2S)-2-[[(2S)-2-amino-3-methylbutanoyl]amino]-3-methylbutanoic acid","C10H20N2O3",216.28,"Not_Access","HMDB0029140","73704",1,NA
+"Prolyl-Valine","Prolyl-Valine",TRUE,152307,"(2S)-3-methyl-2-[[(2S)-pyrrolidine-2-carbonyl]amino]butanoic acid","C10H18N2O3",214.26,"Not_Access","Not_Access","74800",1,NA
+"Valylproline","Valylproline",TRUE,9837272,"(2S)-1-[(2S)-2-amino-3-methylbutanoyl]pyrrolidine-2-carboxylic acid","C10H18N2O3",214.26,"Not_Access","HMDB0029135","73701",1,"Endogenous Metabolites"
+"ExMrn00094252",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Butyl butyryllactate","Butyl butyryllactate",TRUE,24114,"(1-butoxy-1-oxopropan-2-yl) butanoate","C11H20O4",216.27,"Not_Access","HMDB0037137","168668",1,NA
+"Undecanedioic acid","Undecanedioic acid",TRUE,15816,"undecanedioic acid","C11H20O4",216.27,"Not_Access","HMDB0000888","73713",1,NA
+"Glycerophosphoethanolamine","glycerophosphoethanolamine",TRUE,123874,"2-aminoethyl 2,3-dihydroxypropyl hydrogen phosphate","C5H14NO6P",215.14,"Not_Access","HMDB0000114","52330",1,NA
+"2-Hydroxydecanedioic acid","2-Hydroxydecanedioic acid",TRUE,128458,"2-hydroxydecanedioic acid","C10H18O5",218.25,"Not_Access","HMDB0000424","89312",1,NA
+"Propionylcarnitine (C3:0)","Propionylcarnitine",TRUE,107738,"3-propanoyloxy-4-(trimethylazaniumyl)butanoate","C10H19NO4",217.26,"C03017","Not_Access","28867",0.8372,"Endogenous Metabolites"
+"Pantothenic acid","Pantothenic acid",TRUE,6613,"3-[[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]propanoic acid","C9H17NO5",219.23,"C00864","HMDB0000210","46905",1,"Endogenous Metabolites"
+"Ala-Gln","Ala-Gln",TRUE,123935,"(2S)-5-amino-2-[[(2S)-2-aminopropanoyl]amino]-5-oxopentanoic acid","C8H15N3O4",217.22,"Not_Access","HMDB0028685","73788",1,NA
+"Carboxyethyllysine","Carboxyethyllysine",TRUE,22088197,"(2S)-6-amino-2-(2-carboxyethylamino)hexanoic acid","C9H18N2O4",218.25,"Not_Access","Not_Access","Not_Access",1,NA
+"N(epsilon)-(carboxyethyl)lysine","N(epsilon)-(carboxyethyl)lysine",TRUE,49852413,"2-amino-6-(2-carboxyethylamino)hexanoic acid","C9H18N2O4",218.25,"Not_Access","HMDB0255289","61063",1,NA
+"epsilon-(Carboxyethyl)lysine","epsilon-(Carboxyethyl)lysine",TRUE,53649894,"(2S)-2,6-diaminononanedioic acid","C9H18N2O4",218.25,"Not_Access","Not_Access","195572",1,NA
+"Lysopine","Lysopine",TRUE,193187,"(2S)-6-amino-2-[[(1R)-1-carboxyethyl]amino]hexanoic acid","C9H18N2O4",218.25,"C04020","Not_Access","17213",1,NA
+"leucyl-serine","leucyl-serine",TRUE,6992130,"(2S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-3-hydroxypropanoic acid","C9H18N2O4",218.25,"Not_Access","Not_Access","73523",1,NA
+"N(1-Carboxyethyl)-lysine","N(epsilon)-(1-carboxyethyl)lysine",TRUE,23400779,"(2S)-2-amino-6-(1-carboxyethylamino)hexanoic acid","C9H18N2O4",218.25,"Not_Access","Not_Access","60125",0.807,NA
+"seryl-leucine","seryl-leucine",TRUE,7015695,"(2S)-2-[[(2S)-2-amino-3-hydroxypropanoyl]amino]-4-methylpentanoic acid","C9H18N2O4",218.25,"Not_Access","HMDB0029043","74815",1,NA
+"N-hydroxy-N-succinylcadaverine","N-hydroxy-N-succinylcadaverine",TRUE,10398471,"4-[5-aminopentyl(hydroxy)amino]-4-oxobutanoic acid","C9H18N2O4",218.25,"C22915","Not_Access","50443",1,NA
+"Cinnamyl isovalerate","Cinnamyl isovalerate",TRUE,5355855,"[(E)-3-phenylprop-2-enyl] 3-methylbutanoate","C14H18O2",218.29,"Not_Access","Not_Access","Not_Access",1,NA
+"cis-3-Hexenyl phenylacetate","cis-3-Hexenyl phenylacetate",TRUE,5367698,"[(Z)-hex-3-enyl] 2-phenylacetate","C14H18O2",218.29,"Not_Access","HMDB0038281","Not_Access",1,NA
+"Dimethylbenzyl carbinyl crotonate","Dimethylbenzyl carbinyl crotonate",TRUE,16205756,"(2-methyl-1-phenylpropan-2-yl) (E)-but-2-enoate","C14H18O2",218.29,"Not_Access","HMDB0032227","180845",1,NA
+"Isoamyl cinnamate","Isoamyl cinnamate",TRUE,5273467,"3-methylbutyl (E)-3-phenylprop-2-enoate","C14H18O2",218.29,"Not_Access","Not_Access","191650",1,NA
+"Valylcysteine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cysteinyl-Valine","Cysteinyl-Valine",TRUE,20032849,"2-[(2-amino-3-sulfanylpropanoyl)amino]-3-methylbutanoic acid","C8H16N2O3S",220.29,"Not_Access","HMDB0028788","174119",1,NA
+"alanyl-methionine","alanyl-methionine",TRUE,85744,"(2S)-2-[[(2S)-2-aminopropanoyl]amino]-4-methylsulfanylbutanoic acid","C8H16N2O3S",220.29,"Not_Access","HMDB0028693","73806",1,NA
+"Phenylalanylglycine","Phenylalanylglycine",TRUE,6992304,"2-[[(2S)-2-amino-3-phenylpropanoyl]amino]acetic acid","C11H14N2O3",222.24,"Not_Access","HMDB0028995","73635",1,NA
+"1,2-Dimethoxy-4-[2-(2-propenyloxy)ethenyl]-benzene","1,2-Dimethoxy-4-[2-(2-propenyloxy)ethenyl]-benzene",TRUE,5282103,"1,2-dimethoxy-4-[(E)-2-prop-2-enoxyethenyl]benzene","C13H16O3",220.26,"C12263","Not_Access","31036",1,NA
+"propyl 3-oxo-2-phenylbutanoate","propyl 3-oxo-2-phenylbutanoate",TRUE,89623386,"propyl 3-oxo-2-phenylbutanoate","C13H16O3",220.26,"Not_Access","Not_Access","Not_Access",1,NA
+"Ethyl 2-benzylacetoacetate","Ethyl 2-benzylacetoacetate",TRUE,246929,"ethyl 2-benzyl-3-oxobutanoate","C13H16O3",220.26,"Not_Access","HMDB0040424","168288",1,NA
+"3-Hexenyl salicylic acid","3-Hexenyl salicylic acid",TRUE,6021887,"[(E)-hex-3-enyl] 2-hydroxybenzoate","C13H16O3",220.26,"Not_Access","HMDB0061823","88591",1,NA
+"8-phenyloctanoate","8-phenyloctanoate",TRUE,7021864,"8-phenyloctanoate","C14H19O2-",219.3,"Not_Access","Not_Access","Not_Access",1,NA
+"2-Methyl-1-phenyl-2-propanyl butyrate","2-Methyl-1-phenyl-2-propanyl butyrate",TRUE,24915,"(2-methyl-1-phenylpropan-2-yl) butanoate","C14H20O2",220.31,"Not_Access","HMDB0040226","185847",1,NA
+"Hexyl phenylacetate","Hexyl phenylacetate",TRUE,221691,"hexyl 2-phenylacetate","C14H20O2",220.31,"Not_Access","HMDB0037714","191568",1,"Therapeutics/Prescription Drugs"
+"Hexyl salicylic acid","Hexyl salicylic acid",TRUE,22629,"hexyl 2-hydroxybenzoate","C13H18O3",222.28,"Not_Access","HMDB0061943","88836",1,NA
+"3,4-Methylenesebacic acid","3,4-Methylenesebacic acid",TRUE,124202122,"3,4-dimethylidenedecanedioic acid","C12H18O4",226.27,"Not_Access","HMDB0059729","89935",1,NA
+"Octyl 2-furoate","Octyl 2-furoate",TRUE,62901,"octyl furan-2-carboxylate","C13H20O3",224.3,"Not_Access","HMDB0037726","174156",1,NA
+"9-hydroxy traumatin","9-hydroxy traumatin",TRUE,122706549,"(E)-9-hydroxy-12-oxododec-10-enoate","C12H19O4-",227.28,"Not_Access","Not_Access","Not_Access",1,NA
+"5-Heptyltetrahydro-2-oxo-3-furancarboxylic acid","5-Heptyltetrahydro-2-oxo-3-furancarboxylic acid",TRUE,18371062,"5-heptyl-2-oxooxolane-3-carboxylic acid","C12H20O4",228.28,"Not_Access","HMDB0030994","169601",1,NA
+"11-hydroxy-traumatin","11-hydroxy-traumatin",TRUE,122706327,"(Z)-11-hydroxy-12-oxododec-9-enoate","C12H19O4-",227.28,"Not_Access","Not_Access","Not_Access",1,NA
+"Traumatic acid","Traumatic acid",TRUE,5283028,"(E)-dodec-2-enedioic acid","C12H20O4",228.28,"C16308","HMDB0000933","545687",1,NA
+"Prolylhydroxyproline","Prolylhydroxyproline",TRUE,11902893,"(2S,4R)-4-hydroxy-1-[(2S)-pyrrolidine-2-carbonyl]pyrrolidine-2-carboxylic acid","C10H16N2O4",228.24,"Not_Access","HMDB0006695","74767",1,NA
+"Val-Ile","Val-Ile",TRUE,7010532,"(2S,3S)-2-[[(2S)-2-amino-3-methylbutanoyl]amino]-3-methylpentanoic acid","C11H22N2O3",230.3,"Not_Access","HMDB0029130","75012",1,NA
+"Leu-Val","Leu-Val",TRUE,6993116,"(2S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-3-methylbutanoic acid","C11H22N2O3",230.3,"Not_Access","Not_Access","73579",1,NA
+"prolyl-isoleucine","prolyl-isoleucine",TRUE,7079601,"(2S,3S)-3-methyl-2-[[(2S)-pyrrolidine-2-carbonyl]amino]pentanoic acid","C11H20N2O3",228.29,"Not_Access","HMDB0304810","74790",1,NA
+"prolyl-leucine","prolyl-leucine",TRUE,444109,"(2S)-4-methyl-2-[[(2S)-pyrrolidine-2-carbonyl]amino]pentanoic acid","C11H20N2O3",228.29,"Not_Access","Not_Access","74791",1,NA
+"Isoleucylproline","Isoleucylproline",TRUE,444876,"(2S)-1-[(2S,3S)-2-amino-3-methylpentanoyl]pyrrolidine-2-carboxylic acid","C11H20N2O3",228.29,"Not_Access","HMDB0011174","74076",1,NA
+"Lauramine oxide","Lauramine oxide",TRUE,15433,"N,N-dimethyldodecan-1-amine oxide","C14H31NO",229.4,"Not_Access","Not_Access","131762",1,NA
+"Thr-Leu","Thr-Leu",TRUE,7021828,"(2S)-2-[[(2S,3R)-2-amino-3-hydroxybutanoyl]amino]-4-methylpentanoic acid","C10H20N2O4",232.28,"Not_Access","HMDB0029065","74860",1,NA
+"N-Formyltryptophan","N-Formyltryptophan",TRUE,152933,"(2S)-2-formamido-3-(1H-indol-3-yl)propanoic acid","C12H12N2O3",232.23,"Not_Access","Not_Access","Not_Access",1,NA
+"Isobutyrylcarnitine (C4:0)","isobutyrylcarnitine",TRUE,168379,"(3R)-3-(2-methylpropanoyloxy)-4-(trimethylazaniumyl)butanoate","C11H21NO4",231.29,"Not_Access","HMDB0000736","84838",0.8444,NA
+"Butyrylcarnitine (C4:0)","Butyrylcarnitine",TRUE,213144,"(3R)-3-butanoyloxy-4-(trimethylazaniumyl)butanoate","C11H21NO4",231.29,"Not_Access","HMDB0002013","21949",0.8205,NA
+"N2-Succinyl-ornithine","N(2)-Succinylarginine",TRUE,3082154,"(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid;butanedioic acid","C10H20N4O6",292.29,"Not_Access","Not_Access","Not_Access",0.7619,NA
+"Hydroxyprolyl-Threonine","Hydroxyprolyl-Threonine",TRUE,61158058,"3-hydroxy-2-[(4-hydroxypyrrolidine-2-carbonyl)amino]butanoic acid","C9H16N2O5",232.23,"Not_Access","HMDB0028873","178401",1,NA
+"4-(gamma-Glutamylamino)butanoate","4-(L-gamma-glutamylamino)butanoate",TRUE,25245457,"(2S)-2-azaniumyl-5-(3-carboxylatopropylamino)-5-oxopentanoate","C9H15N2O5-",231.23,"Not_Access","Not_Access","58800",0.9697,NA
+"Spermic acid 2","Spermic acid 2",TRUE,167029,"3-[4-(2-carboxyethylamino)butylamino]propanoic acid","C10H20N2O4",232.28,"Not_Access","HMDB0013075","179478",1,"Endogenous Metabolites"
+"Alanylphenylalanine","Alanylphenylalanine",TRUE,96814,"(2S)-2-[[(2S)-2-aminopropanoyl]amino]-3-phenylpropanoic acid","C12H16N2O3",236.27,"Not_Access","HMDB0028694","73807",1,NA
+"Phe-Ala","Phe-Ala",TRUE,5488196,"(2S)-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]propanoic acid","C12H16N2O3",236.27,"Not_Access","HMDB0028988","73630",1,NA
+"Lidocaine (Drug)","Lidocaine hydrochloride",TRUE,6314,"2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide;hydrochloride","C14H23ClN2O",270.8,"Not_Access","Not_Access","Not_Access",0.6154,NA
+"Carboxy-ibuprofen","Carboxy-ibuprofen",TRUE,10444113,"3-[4-(1-carboxyethyl)phenyl]-2-methylpropanoic acid","C13H16O4",236.26,"Not_Access","HMDB0060564","133199",1,NA
+"2-Methyl-4-phenyl-2-butyl 2-methylpropanoate","2-Methyl-4-phenyl-2-butyl 2-methylpropanoate",TRUE,61446,"(2-methyl-4-phenylbutan-2-yl) 2-methylpropanoate","C15H22O2",234.33,"Not_Access","HMDB0037640","196148",1,NA
+"p-Hydroxynonanophenone","p-Hydroxynonanophenone",TRUE,167093,"1-(4-hydroxyphenyl)nonan-1-one","C15H22O2",234.33,"Not_Access","HMDB0037391","196147",1,NA
+"3-Phenylpropyl hexanoate","3-Phenylpropyl hexanoate",TRUE,221417,"3-phenylpropyl hexanoate","C15H22O2",234.33,"Not_Access","HMDB0036390","196143",1,NA
+"Octyl benzoate","Octyl benzoate",TRUE,66751,"octyl benzoate","C15H22O2",234.33,"Not_Access","HMDB0303722","156236",1,NA
+"N-Lactoylphenylalanine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrosylglycine","L-Tyrosylglycine",TRUE,7021854,"2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]acetic acid","C11H14N2O4",238.24,"Not_Access","HMDB0029105","74990",0.9333,NA
+"glycyl-tyrosine","glycyl-tyrosine",TRUE,92829,"(2S)-2-[(2-aminoacetyl)amino]-3-(4-hydroxyphenyl)propanoic acid","C11H14N2O4",238.24,"Not_Access","HMDB0028853","73517",1,NA
+"Pentaethylene glycol","Pentaethylene glycol",TRUE,62551,"2-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]ethanol","C10H22O6",238.28,"Not_Access","HMDB0256256","39631",1,"Industrial Chemicals"
+"2,3-Dihydroxypropyl 4-phenylbutanoate","2,3-Dihydroxypropyl 4-phenylbutanoate",TRUE,66677791,"2,3-dihydroxypropyl 4-phenylbutanoate","C13H18O4",238.28,"Not_Access","HMDB0257749","Not_Access",1,NA
+"Geranyl acetoacetate","Geranyl acetoacetate",TRUE,5956805,"[(2E)-3,7-dimethylocta-2,6-dienyl] 3-oxobutanoate","C14H22O3",238.32,"Not_Access","Not_Access","85255",1,NA
+"3,4-Dimethyl-5-pentyl-2-furanpropanoic acid","3,4-Dimethyl-5-pentyl-2-furanpropanoic acid",TRUE,23425504,"3-(3,4-dimethyl-5-pentylfuran-2-yl)propanoic acid","C14H22O3",238.32,"Not_Access","HMDB0112083","168605",1,NA
+"Lumichrome","Lumichrome",TRUE,5326566,"7,8-dimethyl-1H-benzo[g]pteridine-2,4-dione","C12H10N4O2",242.23,"C01727","HMDB0254199","17781",1,NA
+"(3-Amino-2-hydroxy-2-(1H-imidazol-4-ylmethyl)-5-methyl)-5-methylhexanoic Acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Leu-Ile","Leu-Ile",TRUE,7010534,"(2S,3S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-3-methylpentanoic acid","C12H24N2O3",244.33,"Not_Access","Not_Access","74540",1,NA
+"Leu-Leu","Leu-Leu",TRUE,76807,"(2S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-4-methylpentanoic acid","C12H24N2O3",244.33,"Not_Access","HMDB0028933","73531",1,NA
+"Ile-Leu","Ile-Leu",TRUE,7019083,"(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-4-methylpentanoic acid","C12H24N2O3",244.33,"Not_Access","Not_Access","74072",1,NA
+"9-hydroperoxytraumatin",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Valyl-Gamma-glutamate","Valyl-Gamma-glutamate",TRUE,131750792,"2-amino-5-[(2-amino-3-methylbutanoyl)amino]-5-oxopentanoic acid","C10H19N3O4",245.28,"Not_Access","HMDB0029141","193353",1,NA
+"isoleucyl-asparagine","isoleucyl-asparagine",TRUE,7016080,"(2S)-4-amino-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-4-oxobutanoic acid","C10H19N3O4",245.28,"Not_Access","Not_Access","74063",1,NA
+"Valylglutamine","Valylglutamine",TRUE,7016045,"(2S)-5-amino-2-[[(2S)-2-amino-3-methylbutanoyl]amino]-5-oxopentanoic acid","C10H19N3O4",245.28,"Not_Access","HMDB0029125","75010",1,NA
+"Cytidine","Cytidine",TRUE,6175,"4-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one","C9H13N3O5",243.22,"C00475","HMDB0000089","17562",1,"Endogenous Metabolites"
+"aspartyl-leucine","aspartyl-leucine",TRUE,6992367,"(2S)-2-[[(2S)-2-amino-3-carboxypropanoyl]amino]-4-methylpentanoic acid","C10H18N2O5",246.26,"Not_Access","Not_Access","68596",1,NA
+"gamma-glutamyl-valine","gamma-glutamyl-valine",TRUE,7015683,"(2S)-2-amino-5-[[(1S)-1-carboxy-2-methylpropyl]amino]-5-oxopentanoic acid","C10H18N2O5",246.26,"Not_Access","HMDB0011172","68848",1,NA
+"Isoleucyl-Aspartate","Isoleucyl-Aspartate",TRUE,14304554,"2-[(2-amino-3-methylpentanoyl)amino]butanedioic acid","C10H18N2O5",246.26,"Not_Access","HMDB0028903","177273",1,NA
+"Dibutyl malate","Dibutyl malate",TRUE,95385,"dibutyl 2-hydroxybutanedioate","C12H22O5",246.3,"Not_Access","HMDB0031696","174276",1,NA
+"3-Hydroxydodecanedioic acid","3-Hydroxydodecanedioic acid",TRUE,16663321,"3-hydroxydodecanedioic acid","C12H22O5",246.3,"Not_Access","HMDB0000413","145961",1,NA
+"Valerylcarnitine (C5:0)","Valerylcarnitine",TRUE,16226475,"(3R)-3-pentanoyloxy-4-(trimethylazaniumyl)butanoate","C12H23NO4",245.32,"Not_Access","HMDB0013128","85095",0.8205,NA
+"Isovalerylcarnitine (C5:0)","Isovalerylcarnitine",TRUE,6426851,"3-(3-methylbutanoyloxy)-4-(trimethylazaniumyl)butanoate","C12H23NO4",245.32,"Not_Access","HMDB0000688","73025",0.8444,NA
+"Arg-Ala","Arg-Ala",TRUE,7020333,"(2S)-2-[[(2S)-2-amino-5-(diaminomethylideneamino)pentanoyl]amino]propanoic acid","C9H19N5O3",245.28,"Not_Access","HMDB0028702","73810",1,NA
+"Glutamylvaline","Glutamylvaline",TRUE,6992567,"(4S)-4-amino-5-[[(1S)-1-carboxy-2-methylpropyl]amino]-5-oxopentanoic acid","C10H18N2O5",246.26,"Not_Access","HMDB0028832","68846",1,NA
+"valyl-glutamate","valyl-glutamate",TRUE,7009623,"(2S)-2-[[(2S)-2-amino-3-methylbutanoyl]amino]pentanedioic acid","C10H18N2O5",246.26,"Not_Access","HMDB0029126","75011",1,NA
+"Hypaphorine","Hypaphorine",TRUE,442106,"(2S)-3-(1H-indol-3-yl)-2-(trimethylazaniumyl)propanoate","C14H18N2O2",246.3,"C09213","HMDB0061115","5832",1,NA
+"3-Hydroxybutyrylcarnitine (C4:0,O)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2,4-Dodecadienoic acid pyrrolidide","2,4-Dodecadienoic acid pyrrolidide",TRUE,10999431,"(2E,4E)-1-pyrrolidin-1-yldodeca-2,4-dien-1-one","C16H27NO",249.39,"Not_Access","HMDB0038841","70093",1,NA
+"2',3'-Didehydro-2',3'-dideoxyguanosine","2',3'-Didehydro-2',3'-dideoxyguanosine",TRUE,135474223,"2-amino-9-[(2R,5S)-5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-1H-purin-6-one","C10H11N5O3",249.23,"Not_Access","Not_Access","Not_Access",1,NA
+"Tyrosylalanine","Tyrosylalanine",TRUE,5496455,"(2S)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]propanoic acid","C12H16N2O4",252.27,"Not_Access","Not_Access","74879",1,"Endogenous Metabolites"
+"Trolox","Trolox",TRUE,40634,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid","C14H18O4",250.29,"Not_Access","HMDB0038804","82625",1,"Therapeutics/Prescription Drugs"
+"Ethylhexyl salicylate","Ethylhexyl salicylate",TRUE,8364,"2-ethylhexyl 2-hydroxybenzoate","C15H22O3",250.33,"Not_Access","HMDB0061839","88639",1,NA
+"2-Ethylhexyl-4-hydroxybenzoate","2-Ethylhexyl-4-hydroxybenzoate",TRUE,107377,"2-ethylhexyl 4-hydroxybenzoate","C15H22O3",250.33,"C14716","Not_Access","34274",1,NA
+"2-methylpropyl 2-benzyl-3-hydroxybutanoate","2-methylpropyl 2-benzyl-3-hydroxybutanoate",TRUE,154586173,"2-methylpropyl 2-benzyl-3-hydroxybutanoate","C15H22O3",250.33,"Not_Access","Not_Access","Not_Access",1,NA
+"Methyl farnesoate","Methyl farnesoate",TRUE,5275508,"methyl (2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienoate","C16H26O2",250.38,"C16503","HMDB0243578","80535",1,NA
+"[2,2-Bis(2-methylpropoxy)ethyl]benzene","[2,2-Bis(2-methylpropoxy)ethyl]benzene",TRUE,71544,"2,2-bis(2-methylpropoxy)ethylbenzene","C16H26O2",250.38,"Not_Access","HMDB0037712","174311",1,NA
+"hexadeca-7,10,13-trienoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4,7,10,13-Hexadecatetraenoic acid","4,7,10,13-Hexadecatetraenoic acid",TRUE,5282831,"(4E,7E,10E,13E)-hexadeca-4,7,10,13-tetraenoic acid","C16H24O2",248.36,"Not_Access","HMDB0253125","230252",1,NA
+"Hexadecatrienoic acid","Hexadecatrienoic acid",TRUE,6506600,"(2E,4E,6E)-hexadeca-2,4,6-trienoic acid","C16H26O2",250.38,"Not_Access","HMDB0302991","Not_Access",1,"Endogenous Metabolites"
+"Hexadecadienoic acid","Hexadecadienoic acid",TRUE,5312421,"(2E,4E)-hexadeca-2,4-dienoic acid","C16H28O2",252.39,"Not_Access","HMDB0302694","196093",1,NA
+"Linalyl hexanoate","Linalyl hexanoate",TRUE,564550,"3,7-dimethylocta-1,6-dien-3-yl hexanoate","C16H28O2",252.39,"Not_Access","HMDB0030429","196060",1,NA
+"Alanyltyrosine","Alanyltyrosine",TRUE,92946,"(2S)-2-[[(2S)-2-aminopropanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C12H16N2O4",252.27,"Not_Access","HMDB0028699","73395",1,"Endogenous Metabolites"
+"Grandinol","Grandinol",TRUE,11043217,"2,4,6-trihydroxy-3-methyl-5-(3-methylbutanoyl)benzaldehyde","C13H16O5",252.26,"C20207","Not_Access","182757",1,NA
+"Palmitamide","Palmitamide",TRUE,69421,"hexadecanamide","C16H33NO",255.44,"Not_Access","HMDB0012273","74475",1,"Endogenous Metabolites"
+"Leucyl-Gamma-glutamate","Leucyl-Gamma-glutamate",TRUE,131750774,"2-amino-5-[(2-amino-4-methylpentanoyl)amino]-5-oxopentanoic acid","C11H21N3O4",259.3,"Not_Access","HMDB0028943","178674",1,NA
+"Isoleucyl-Gamma-glutamate","Isoleucyl-Gamma-glutamate",TRUE,131750772,"2-amino-5-[(2-amino-3-methylpentanoyl)amino]-5-oxopentanoic acid","C11H21N3O4",259.3,"Not_Access","HMDB0028921","178676",1,NA
+"Glutaminylleucine","Glutaminylleucine",TRUE,44232492,"(2S)-2-[[(2S)-2,5-diamino-5-oxopentanoyl]amino]-4-methylpentanoic acid","C11H21N3O4",259.3,"Not_Access","HMDB0028801","141429",1,NA
+"Acylcarnitine C6:1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Glycerophosphocholine","Glycerophosphocholine",TRUE,657272,"[(2R)-2,3-dihydroxypropyl] 2-(trimethylazaniumyl)ethyl phosphate","C8H20NO6P",257.22,"Not_Access","HMDB0000086","16870",1,NA
+"gamma-Glutamylleucine","gamma-Glutamylleucine",TRUE,151023,"(2S)-2-[[(4S)-4-amino-4-carboxybutanoyl]amino]-4-methylpentanoic acid","C11H20N2O5",260.29,"Not_Access","HMDB0011171","68433",1,NA
+"leucyl-glutamate","leucyl-glutamate",TRUE,5259590,"2-[(2-amino-4-methylpentanoyl)amino]pentanedioic acid","C11H20N2O5",260.29,"Not_Access","HMDB0028928","Not_Access",1,NA
+"gamma-glutamyl-isoleucine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Glutamylleucine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hydroxyprolyl-Lysine","Hydroxyprolyl-Lysine",TRUE,131750767,"6-amino-2-[(4-hydroxypyrrolidine-2-carbonyl)amino]hexanoic acid","C11H21N3O4",259.3,"Not_Access","HMDB0028868","173197",1,NA
+"isoleucyl-glutamine","isoleucyl-glutamine",TRUE,7020102,"(2S)-5-amino-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-5-oxopentanoic acid","C11H21N3O4",259.3,"Not_Access","Not_Access","74065",1,NA
+"Trp-Gly","Trp-Gly",TRUE,97054,"2-[[(2S)-2-amino-3-(1H-indol-3-yl)propanoyl]amino]acetic acid","C13H15N3O3",261.28,"Not_Access","Not_Access","74870",1,NA
+"Hexanoylcarnitine (C6:0)","Hexanoylcarnitine",TRUE,6426853,"3-hexanoyloxy-4-(trimethylazaniumyl)butanoate","C13H25NO4",259.34,"Not_Access","Not_Access","70749",0.8293,"Endogenous Metabolites"
+"gamma-glutamyl-leucine","gamma-glutamyl-leucine",TRUE,151023,"(2S)-2-[[(4S)-4-amino-4-carboxybutanoyl]amino]-4-methylpentanoic acid","C11H20N2O5",260.29,"Not_Access","HMDB0011171","68433",1,NA
+"Homobaldrinal","Homobaldrinal",TRUE,49999,"(7-formylcyclopenta[c]pyran-4-yl)methyl 3-methylbutanoate","C15H16O4",260.28,"C16812","Not_Access","80747",1,NA
+"3-Hydroxyisovalerylcarnitine","3-Hydroxyisovalerylcarnitine",TRUE,71464474,"3-(3-hydroxy-3-methylbutanoyl)oxy-4-(trimethylazaniumyl)butanoate","C12H23NO5",261.31,"Not_Access","Not_Access","73027",1,NA
+"4-Dodecylphenol","4-Dodecylphenol",TRUE,66030,"4-dodecylphenol","C18H30O",262.4,"C14245","Not_Access","34402",1,NA
+"Prolylphenylalanine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Phenylalanylproline","Phenylalanylproline",TRUE,162656,"(2S)-1-[(2R)-2-amino-3-phenylpropanoyl]pyrrolidine-2-carboxylic acid","C14H18N2O3",262.3,"Not_Access","Not_Access","Not_Access",1,NA
+"Isoleucyl-Methionine","Isoleucyl-Methionine",TRUE,7020106,"(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-4-methylsulfanylbutanoic acid","C11H22N2O3S",262.37,"Not_Access","Not_Access","74073",1,NA
+"Phe-Val","Phe-Val",TRUE,7359122,"(2S)-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]-3-methylbutanoic acid","C14H20N2O3",264.32,"Not_Access","HMDB0029008","73638",1,NA
+"Phenylacetylglutamine","Phenylacetylglutamine",TRUE,92258,"(2S)-5-amino-5-oxo-2-[(2-phenylacetyl)amino]pentanoic acid","C13H16N2O4",264.28,"C04148","HMDB0006344","17884",1,"Endogenous Metabolites"
+"Norlinolenic acid","Norlinolenic acid",TRUE,16061034,"(8Z,11Z,14Z)-heptadeca-8,11,14-trienoic acid","C17H28O2",264.4,"C16344","Not_Access","76235",1,NA
+"2-(Nonylphenoxy)ethanol","2-(Nonylphenoxy)ethanol",TRUE,171092,"2-(2-nonylphenoxy)ethanol","C17H28O2",264.4,"Not_Access","HMDB0244950","Not_Access",1,NA
+"Nerolidyl acetate","Nerolidyl acetate",TRUE,5363426,"[(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-yl] acetate","C17H28O2",264.4,"Not_Access","HMDB0039630","173885",1,NA
+"S-(5-hydroxypentan-3-yl)-cysteinylglycine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S-(4-hydroxy-3-methylbutan-2-yl)-cysteinylglycine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Thr-Phe","Thr-Phe",TRUE,7010580,"(2S)-2-[[(2S,3R)-2-amino-3-hydroxybutanoyl]amino]-3-phenylpropanoic acid","C13H18N2O4",266.29,"Not_Access","HMDB0029068","74862",1,NA
+"Valylphenylalanine","Valylphenylalanine",TRUE,6993120,"(2S)-2-[[(2S)-2-amino-3-methylbutanoyl]amino]-3-phenylpropanoic acid","C14H20N2O3",264.32,"Not_Access","HMDB0029134","75016",1,NA
+"farnesyl acetate","Farnesyl acetate",TRUE,638500,"[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl] acetate","C17H28O2",264.4,"Not_Access","HMDB0240268","186251",1,NA
+"ExMrn00024446",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ExMrn00024445",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adenosine","Adenosine",TRUE,60961,"(2R,3R,4S,5R)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol","C10H13N5O4",267.24,"C00212","HMDB0000050","16335",1,"Endogenous Metabolites"
+"Tyrosyl-Serine","Tyrosyl-Serine",TRUE,18218253,"2-[[2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-3-hydroxypropanoic acid","C12H16N2O5",268.27,"Not_Access","HMDB0029114","173909",1,NA
+"Inosine","Inosine",TRUE,135398641,"9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one","C10H12N4O5",268.23,"C00294","HMDB0000195","17596",1,NA
+"[2-Amino-3-(1H-imidazol-5-yl)propanoyl] 2-amino-3-methylpentanoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17beta-Dihydroequilin","17beta-Dihydroequilin",TRUE,11954027,"(9S,13S,14S,17S)-13-methyl-6,9,11,12,14,15,16,17-octahydrocyclopenta[a]phenanthrene-3,17-diol","C18H22O2",270.4,"C14485","Not_Access","62851",1,NA
+"Estrone","Estrone",TRUE,5870,"(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one","C18H22O2",270.4,"C00468","HMDB0000145","17263",1,"Endogenous Metabolites"
+"4,4'-Dihydroxy-2,2',3,3',5,5'-hexamethylbiphenyl","4,4'-Dihydroxy-2,2',3,3',5,5'-hexamethylbiphenyl",TRUE,688288,"4-(4-hydroxy-2,3,5-trimethylphenyl)-2,3,6-trimethylphenol","C18H22O2",270.4,"Not_Access","Not_Access","Not_Access",1,NA
+"3-carboxy-4-methyl-5-pentyl-2-furanpropanoic acid","3-carboxy-4-methyl-5-pentyl-2-furanpropanoic acid",TRUE,194501,"2-(2-carboxyethyl)-4-methyl-5-pentylfuran-3-carboxylic acid","C14H20O5",268.3,"Not_Access","HMDB0061643","165398",1,NA
+"16-Oxopalmitate","16-Oxopalmitate",TRUE,15931626,"16-oxohexadecanoic acid","C16H30O3",270.41,"C19614","Not_Access","134195",1,NA
+"2-hexyl-3-oxodecanoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16-Hydroxypalmitic acid","16-Hydroxypalmitic acid",TRUE,10466,"16-hydroxyhexadecanoic acid","C16H32O3",272.42,"C18218","HMDB0006294","55328",1,"Endogenous Metabolites"
+"2-Hydroxypalmitic acid","2-Hydroxypalmitic acid",TRUE,92836,"2-hydroxyhexadecanoic acid","C16H32O3",272.42,"Not_Access","Not_Access","65101",1,"Endogenous Metabolites"
+"delta9(11)-Estradiol","delta9(11)-Estradiol",TRUE,9816888,"(8S,13S,14S,17S)-13-methyl-6,7,8,12,14,15,16,17-octahydrocyclopenta[a]phenanthrene-3,17-diol","C18H22O2",270.4,"Not_Access","Not_Access","Not_Access",1,NA
+"17alpha-Dihydroequilin","17alpha-Dihydroequilin",TRUE,9547222,"(9S,13S,14S,17R)-13-methyl-6,9,11,12,14,15,16,17-octahydrocyclopenta[a]phenanthrene-3,17-diol","C18H22O2",270.4,"Not_Access","Not_Access","186959",1,NA
+"1-Phenyl-1,3-dodecanedione","1-Phenyl-1,3-dodecanedione",TRUE,10039032,"1-phenyldodecane-1,3-dione","C18H26O2",274.4,"Not_Access","HMDB0035579","Not_Access",1,NA
+"10,14,16-Octadecatrien-12-ynoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dicranin","Dicranin",TRUE,44584408,"(9Z,12Z,15Z)-octadeca-9,12,15-trien-6-ynoic acid","C18H26O2",274.4,"Not_Access","Not_Access","65768",1,NA
+"S-(1-hydroxyhexan-3-yl)-cysteinylglycine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S-(4-hydroxy-2-methylpentan-2-yl)-cysteinylglycine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Glu-Glu","Glu-Glu",TRUE,439500,"(2S)-2-[[(2S)-2-amino-4-carboxybutanoyl]amino]pentanedioic acid","C10H16N2O7",276.24,"C01425","HMDB0028818","5390",1,NA
+"17beta-hydroxy-5beta-estran-3-one","17beta-hydroxy-5beta-estran-3-one",TRUE,21634212,"(5R,8R,9R,10S,13S,14S,17S)-17-hydroxy-13-methyl-2,4,5,6,7,8,9,10,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-one","C18H28O2",276.4,"Not_Access","HMDB0062677","87333",1,NA
+"Bolandiol","Bolandiol",TRUE,9835303,"(3S,8R,9S,10R,13S,14S,17S)-13-methyl-1,2,3,6,7,8,9,10,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthrene-3,17-diol","C18H28O2",276.4,"Not_Access","Not_Access","145661",1,NA
+"19-Norandrosterone","19-Norandrosterone",TRUE,9548753,"(3R,5S,8R,9R,10S,13S,14S)-3-hydroxy-13-methyl-2,3,4,5,6,7,8,9,10,11,12,14,15,16-tetradecahydro-1H-cyclopenta[a]phenanthren-17-one","C18H28O2",276.4,"Not_Access","HMDB0002697","36412",1,NA
+"19-Nor-5-androstenediol","19-Nor-5-androstenediol",TRUE,9900246,"(3S,8R,9S,10R,13S,14S,17S)-13-methyl-1,2,3,4,7,8,9,10,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthrene-3,17-diol","C18H28O2",276.4,"Not_Access","HMDB0004590","Not_Access",1,NA
+"[6]-Shogaol","[6]-Shogaol",TRUE,5281794,"(E)-1-(4-hydroxy-3-methoxyphenyl)dec-4-en-3-one","C17H24O3",276.4,"C10494","HMDB0031463","10138",1,NA
+"gamma-Linolenic acid","gamma-Linolenic acid",TRUE,5280933,"(6Z,9Z,12Z)-octadeca-6,9,12-trienoic acid","C18H30O2",278.4,"C06426","HMDB0003073","28661",1,NA
+"Phenylalanylaspartic acid","Phenylalanylaspartic acid",TRUE,6992643,"(2S)-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]butanedioic acid","C13H16N2O5",280.28,"Not_Access","HMDB0028991","73631",1,NA
+"beta-aspartyl-phenylalanine","beta-aspartyl-phenylalanine",TRUE,7020415,"(2S)-2-amino-4-[[(1S)-1-carboxy-2-phenylethyl]amino]-4-oxobutanoic acid","C13H16N2O5",280.28,"Not_Access","Not_Access","Not_Access",1,NA
+"Tyrosyl-Proline","Tyrosyl-Proline",TRUE,13055260,"1-[2-amino-3-(4-hydroxyphenyl)propanoyl]pyrrolidine-2-carboxylic acid","C14H18N2O4",278.3,"Not_Access","HMDB0029113","179595",1,NA
+"Phenylalanylhydroxyproline","Phenylalanylhydroxyproline",TRUE,25227056,"(2S,4R)-1-[(2S)-2-amino-3-phenylpropanoyl]-4-hydroxypyrrolidine-2-carboxylic acid","C14H18N2O4",278.3,"Not_Access","HMDB0011176","188966",1,NA
+"prolyl-tyrosine","prolyl-tyrosine",TRUE,152264,"(2S)-3-(4-hydroxyphenyl)-2-[[(2S)-pyrrolidine-2-carbonyl]amino]propanoic acid","C14H18N2O4",278.3,"Not_Access","Not_Access","74799",1,NA
+"Aspartylphenylalanine","Aspartylphenylalanine",TRUE,93078,"(3S)-3-amino-4-[[(1S)-1-carboxy-2-phenylethyl]amino]-4-oxobutanoic acid","C13H16N2O5",280.28,"Not_Access","HMDB0000706","73830",1,"Endogenous Metabolites"
+"Leucylphenylalanine","Leucylphenylalanine",TRUE,259325,"2-[(2-amino-4-methylpentanoyl)amino]-3-phenylpropanoic acid","C15H22N2O3",278.35,"Not_Access","HMDB0302841","Not_Access",1,NA
+"12(S)-HHTrE","12(S)-HHTrE",TRUE,71684429,"(5Z,8Z,10E)-12-hydroxyheptadeca-5,8,10-trienoic acid","C17H28O3",280.4,"Not_Access","Not_Access","Not_Access",1,NA
+"Mono(2-ethylhexyl) phthalate","Mono(2-ethylhexyl) phthalate",TRUE,20393,"2-(2-ethylhexoxycarbonyl)benzoic acid","C16H22O4",278.34,"C03343","HMDB0013248","17243",1,"Extractables/Leachables"
+"5beta-Estrane-3alpha,17beta-diol","5beta-Estrane-3alpha,17beta-diol",TRUE,255697,"(3R,5R,8R,9R,10S,13S,14S,17S)-13-methyl-1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17-hexadecahydrocyclopenta[a]phenanthrene-3,17-diol","C18H30O2",278.4,"C15201","Not_Access","79716",1,NA
+"3'-O-Methylinosine","3'-O-Methylinosine",TRUE,136662872,"9-[(2R,3R,4S,5R)-3-hydroxy-5-(hydroxymethyl)-4-methoxyoxolan-2-yl]-1H-purin-6-one","C11H14N4O5",282.25,"Not_Access","Not_Access","183886",1,NA
+"2'-O-Methylinosine","2'-O-Methylinosine",TRUE,135412763,"9-[(2R,3R,4R,5R)-4-hydroxy-5-(hydroxymethyl)-3-methoxyoxolan-2-yl]-1H-purin-6-one","C11H14N4O5",282.25,"Not_Access","Not_Access","68467",1,NA
+"Tyrosyl-Valine","Tyrosyl-Valine",TRUE,7009560,"(2S)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-3-methylbutanoic acid","C14H20N2O4",280.32,"Not_Access","Not_Access","75007",1,NA
+"N1-benzyloxycarbonyl-lysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"N6-benzyloxycarbonyl-lysine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrosyl-Threonine","Tyrosyl-Threonine",TRUE,14522584,"2-[[2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-3-hydroxybutanoic acid","C13H18N2O5",282.29,"Not_Access","HMDB0029115","174005",1,NA
+"Threonyltyrosine","Threonyltyrosine",TRUE,11778518,"(2S)-2-[[(2S,3R)-2-amino-3-hydroxybutanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C13H18N2O5",282.29,"Not_Access","HMDB0029073","73667",1,NA
+"Oleamide","Oleamide",TRUE,5283387,"(Z)-octadec-9-enamide","C18H35NO",281.5,"C19670","HMDB0002117","116314",1,"Endogenous Metabolites"
+"Xanthosine","Xanthosine",TRUE,64959,"9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purine-2,6-dione","C10H12N4O6",284.23,"C01762","HMDB0000299","18107",1,"Endogenous Metabolites"
+"Hexaethylene glycol","Hexaethylene glycol",TRUE,17472,"2-[2-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol","C12H26O7",282.33,"Not_Access","HMDB0061822","49793",1,"Industrial Chemicals"
+"Octyl gallate","Octyl gallate",TRUE,61253,"octyl 3,4,5-trihydroxybenzoate","C15H22O5",282.33,"Not_Access","HMDB0033375","83631",1,"Personal Care Products/Cosmetics"
+"Guanosine","Guanosine",TRUE,135398635,"2-amino-9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one","C10H13N5O5",283.24,"C00387","HMDB0000133","16750",1,"Endogenous Metabolites"
+"Leucyl-Arginine","Leucyl-Arginine",TRUE,152914,"(2S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-5-(diaminomethylideneamino)pentanoic acid","C12H25N5O3",287.36,"Not_Access","Not_Access","73528",1,NA
+"Isoleucyl-Arginine","Isoleucyl-Arginine",TRUE,7021814,"(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-5-(diaminomethylideneamino)pentanoic acid","C12H25N5O3",287.36,"Not_Access","Not_Access","74061",1,NA
+"Octanoylcarnitine (C8:0)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2-Methoxy-3-phenylundec-2-enoic acid","2-Methoxy-3-phenylundec-2-enoic acid",TRUE,15788291,"(E)-2-methoxy-3-phenylundec-2-enoic acid","C18H26O3",290.4,"Not_Access","HMDB0257874","Not_Access",1,NA
+"4-Oxo-9,11,13,15-octadecatetraenoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Desbenzyl donepezil","Desbenzyl donepezil",TRUE,10446897,"5,6-dimethoxy-2-(piperidin-4-ylmethyl)-2,3-dihydroinden-1-one","C17H23NO3",289.4,"Not_Access","HMDB0013960","174058",1,NA
+"EDTA","EDTA",TRUE,6049,"2-[2-[bis(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetic acid","C10H16N2O8",292.24,"C00284","HMDB0015109","42191",1,NA
+"Octyl 4-methoxycinnamic acid","Octyl 4-methoxycinnamic acid",TRUE,5355130,"2-ethylhexyl (E)-3-(4-methoxyphenyl)prop-2-enoate","C18H26O3",290.4,"Not_Access","HMDB0061861","88667",1,NA
+"Phe-Lys","Phe-Lys",TRUE,15607820,"(2S)-6-amino-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]hexanoic acid","C15H23N3O3",293.36,"Not_Access","HMDB0029000","141443",1,NA
+"Phenylalanylglutamine","Phenylalanylglutamine",TRUE,11779156,"(2S)-5-amino-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]-5-oxopentanoic acid","C14H19N3O4",293.32,"Not_Access","HMDB0028993","90354",1,NA
+"Glutaminylphenylalanine","Glutaminylphenylalanine",TRUE,57288566,"(2S)-2-[[(2S)-2,5-diamino-5-oxopentanoyl]amino]-3-phenylpropanoic acid","C14H19N3O4",293.32,"Not_Access","HMDB0028804","141430",1,NA
+"Phenylalanyl-Gamma-glutamate","Phenylalanyl-Gamma-glutamate",TRUE,131750780,"2-amino-5-[(2-amino-3-phenylpropanoyl)amino]-5-oxopentanoic acid","C14H19N3O4",293.32,"Not_Access","HMDB0029009","179579",1,NA
+"9-Oxo-10(E),12(E)-octadecadienoic acid","9-Oxo-10(E),12(E)-octadecadienoic acid",TRUE,5283011,"(10E,12E)-9-oxooctadeca-10,12-dienoic acid","C18H30O3",294.4,"Not_Access","HMDB0247609","72843",1,"Endogenous Metabolites"
+"16alpha-Hydroxysteroid","16alpha-Hydroxysteroid",TRUE,439393,"(16R)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,16-diol","C19H32O2",292.5,"C01090","Not_Access","Not_Access",1,NA
+"Homo-17a-oxa-5alpha-androstan-3beta-ol",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17beta-Hydroxysteroid","17beta-Hydroxysteroid",TRUE,439890,"(17S)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,17-diol","C19H32O2",292.5,"C03051","Not_Access","Not_Access",1,NA
+"Methyl linolenate","Methyl linolenate",TRUE,5319706,"methyl (9Z,12Z,15Z)-octadeca-9,12,15-trienoate","C19H32O2",292.5,"Not_Access","Not_Access","133634",1,NA
+"Grevillol","Grevillol",TRUE,174862,"5-tridecylbenzene-1,3-diol","C19H32O2",292.5,"C10800","Not_Access","5545",1,NA
+"Hydroxyprolyl-Tyrosine","Hydroxyprolyl-Tyrosine",TRUE,61157166,"3-(4-hydroxyphenyl)-2-[(4-hydroxypyrrolidine-2-carbonyl)amino]propanoic acid","C14H18N2O5",294.3,"Not_Access","HMDB0028875","168770",1,NA
+"Nbeta-aspartyl-phenylalanine methyl ester",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrosylhydroxyproline","Tyrosylhydroxyproline",TRUE,63842847,"(2S,4R)-1-[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]-4-hydroxypyrrolidine-2-carboxylic acid","C14H18N2O5",294.3,"Not_Access","HMDB0029106","Not_Access",1,NA
+"Isoleucyl-Tyrosine","Isoleucyl-Tyrosine",TRUE,7408195,"(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C15H22N2O4",294.35,"Not_Access","Not_Access","74326",1,NA
+"Tyrosyl-Isoleucine","Tyrosyl-Isoleucine",TRUE,7019110,"(2S,3S)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-3-methylpentanoic acid","C15H22N2O4",294.35,"Not_Access","Not_Access","74993",1,NA
+"Leucyl-Tyrosine","Leucyl-Tyrosine",TRUE,70410,"(2S)-2-[[(2S)-2-amino-4-methylpentanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C15H22N2O4",294.35,"Not_Access","Not_Access","73591",1,NA
+"[6]-Gingerol","[6]-Gingerol",TRUE,442793,"(5S)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one","C17H26O4",294.4,"C10462","Not_Access","10136",1,"Endogenous Metabolites"
+"5-Hydroxy-1-(3-hydroxy-4-methoxyphenyl)decan-3-one","5-Hydroxy-1-(3-hydroxy-4-methoxyphenyl)decan-3-one",TRUE,90942,"5-hydroxy-1-(3-hydroxy-4-methoxyphenyl)decan-3-one","C17H26O4",294.4,"Not_Access","HMDB0252720","Not_Access",1,"Endogenous Metabolites"
+"17beta-Hydroxy-2-oxa-5alpha-androstan-3-one","17beta-Hydroxy-2-oxa-5alpha-androstan-3-one",TRUE,252289,"(1S,3aS,3bR,5aS,9aS,9bS,11aS)-1-hydroxy-9a,11a-dimethyl-2,3,3a,3b,4,5,5a,6,9,9b,10,11-dodecahydro-1H-indeno[4,5-h]isochromen-7-one","C18H28O3",292.4,"C14911","Not_Access","79436",1,NA
+"Methyl [6]-paradol","Methyl [6]-paradol",TRUE,85807832,"1-(3,4-dimethoxyphenyl)decan-3-one","C18H28O3",292.4,"Not_Access","HMDB0302136","Not_Access",1,NA
+"Lysylphenylalanine","Lysylphenylalanine",TRUE,151410,"(2S)-2-[[(2S)-2,6-diaminohexanoyl]amino]-3-phenylpropanoic acid","C15H23N3O3",293.36,"Not_Access","HMDB0028958","73605",1,NA
+"13(S)-HODE","13(S)-HODE",TRUE,6443013,"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid","C18H32O3",296.4,"C14762","HMDB0004667","34154",1,NA
+"Kelatorphan","Kelatorphan",TRUE,123982,"(2S)-2-[[(2R)-2-benzyl-4-(hydroxyamino)-4-oxobutanoyl]amino]propanoic acid","C14H18N2O5",294.3,"Not_Access","Not_Access","Not_Access",1,NA
+"gamma-Glutamylphenylalanine","gamma-Glutamylphenylalanine",TRUE,111299,"(2S)-2-amino-5-[[(1S)-1-carboxy-2-phenylethyl]amino]-5-oxopentanoic acid","C14H18N2O5",294.3,"Not_Access","HMDB0000594","89582",1,NA
+"3-(2-Ethyl-5-hydroxyhexyl)phthalic acid","3-(2-Ethyl-5-hydroxyhexyl)phthalic acid",TRUE,54455912,"3-(2-ethyl-5-hydroxyhexyl)phthalic acid","C16H22O5",294.34,"Not_Access","HMDB0255402","Not_Access",1,NA
+"Mono-(2-ethyl-5-hydroxyhexyl) phthalate","Mono-(2-ethyl-5-hydroxyhexyl) phthalate",TRUE,170295,"2-(2-ethyl-5-hydroxyhexoxy)carbonylbenzoic acid","C16H22O5",294.34,"Not_Access","HMDB0094679","132607",1,NA
+"Hydroxyoctadeca-9,12-dienoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9-HOTE","9-HOTE",TRUE,53480359,"(9E,11E,15Z)-9-hydroxyoctadeca-9,11,15-trienoic acid","C18H30O3",294.4,"Not_Access","HMDB0010224","88438",1,"Therapeutics/Prescription Drugs"
+"3,4-Dimethyl-5-pentyl-2-furanheptanoic acid","3,4-Dimethyl-5-pentyl-2-furanheptanoic acid",TRUE,13963863,"7-(3,4-dimethyl-5-pentylfuran-2-yl)heptanoic acid","C18H30O3",294.4,"Not_Access","HMDB0039603","165397",1,NA
+"5-Butyl-3-methyl-2-furannonanoic acid","5-Butyl-3-methyl-2-furannonanoic acid",TRUE,85564660,"9-(5-butyl-3-methylfuran-2-yl)nonanoic acid","C18H30O3",294.4,"Not_Access","HMDB0112103","Not_Access",1,NA
+"H-Tyr-gly-gly-OH","H-Tyr-gly-gly-OH",TRUE,5060023,"2-[[2-[[2-amino-3-(4-hydroxyphenyl)propanoyl]amino]acetyl]amino]acetic acid","C13H17N3O5",295.29,"Not_Access","HMDB0247865","Not_Access",1,NA
+"Glycyl-tyrosyl-glycine","Glycyl-tyrosyl-glycine",TRUE,100083,"2-[[2-[(2-aminoacetyl)amino]-3-(4-hydroxyphenyl)propanoyl]amino]acetic acid","C13H17N3O5",295.29,"Not_Access","HMDB0252836","Not_Access",1,NA
+"7-Methylguanosine","7-Methylguanosine",TRUE,6474236,"2-amino-9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-7-methylpurin-9-ium-6-olate","C11H15N5O5",297.27,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"1-Methylguanosine","1-Methylguanosine",TRUE,96373,"2-amino-9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1-methylpurin-6-one","C11H15N5O5",297.27,"Not_Access","HMDB0001563","19062",1,"Endogenous Metabolites"
+"2-Methylguanosine","2-Methylguanosine",TRUE,135501934,"9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2-(methylamino)-1H-purin-6-one","C11H15N5O5",297.27,"Not_Access","HMDB0005862","19702",1,"Endogenous Metabolites"
+"9-Oxooctadecanoic acid","9-Oxooctadecanoic acid",TRUE,3083831,"9-oxooctadecanoic acid","C18H34O3",298.5,"Not_Access","HMDB0030979","172114",1,NA
+"Tyrosyl-Aspartate","Tyrosyl-Aspartate",TRUE,19816752,"2-[[2-amino-3-(4-hydroxyphenyl)propanoyl]amino]butanedioic acid","C13H16N2O6",296.28,"Not_Access","HMDB0029101","168375",1,NA
+"Aspartyl-Tyrosine","Aspartyl-Tyrosine",TRUE,152455,"(3S)-3-amino-4-[[(1S)-1-carboxy-2-(4-hydroxyphenyl)ethyl]amino]-4-oxobutanoic acid","C13H16N2O6",296.28,"Not_Access","Not_Access","73455",1,NA
+"5'-Methylthioadenosine","5'-Methylthioadenosine",TRUE,439176,"(2R,3R,4S,5S)-2-(6-aminopurin-9-yl)-5-(methylsulfanylmethyl)oxolane-3,4-diol","C11H15N5O3S",297.34,"C00170","HMDB0001173","17509",1,NA
+"Norethynodrel","Norethynodrel",TRUE,6231,"(8R,9S,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,4,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one","C20H26O2",298.4,"C14249","Not_Access","34895",1,NA
+"all-trans-3,4-Didehydroretinoate","all-trans-3,4-Didehydroretinoate",TRUE,447276,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexa-1,3-dien-1-yl)nona-2,4,6,8-tetraenoic acid","C20H26O2",298.4,"Not_Access","HMDB0060092","133794",1,NA
+"4-Oxoretinal","4-Oxoretinal",TRUE,6151363,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethyl-3-oxocyclohexen-1-yl)nona-2,4,6,8-tetraenal","C20H26O2",298.4,"Not_Access","Not_Access","139347",1,NA
+"Eicosapentaenoic acid","Eicosapentaenoic acid",TRUE,446284,"(5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid","C20H30O2",302.5,"C06428","HMDB0001999","28364",1,NA
+"Icosa-2,4,6,8,10-pentaenoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Retinoic acid (Vitamin A acid)","Retinoic acid",TRUE,444795,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid","C20H28O2",300.4,"C00777","HMDB0001852","15367",0.6047,"Therapeutics/Prescription Drugs"
+"9-cis-Retinoic acid","9-cis-Retinoic acid",TRUE,449171,"(2E,4E,6Z,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid","C20H28O2",300.4,"C15493","HMDB0002369","50648",1,"Therapeutics/Prescription Drugs"
+"17beta-Hydroxy-5alpha-androst-2-ene-2-carboxaldehyde","17beta-Hydroxy-5alpha-androst-2-ene-2-carboxaldehyde",TRUE,11753,"(5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-10,13-dimethyl-4,5,6,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-2-carbaldehyde","C20H30O2",302.5,"C15017","Not_Access","79540",1,NA
+"Icosapentaenoate","(5Z,7E,9E,14Z,17Z)-icosapentaenoate",TRUE,25244784,"(5Z,7E,9E,14Z,17Z)-icosa-5,7,9,14,17-pentaenoate","C20H29O2-",301.4,"Not_Access","Not_Access","60025",0.6275,NA
+"3,7,11,15-Tetramethyl-2,4,6,10,14-hexadecapentaenoic acid","3,7,11,15-Tetramethyl-2,4,6,10,14-hexadecapentaenoic acid",TRUE,6437836,"(2E,4E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,4,6,10,14-pentaenoic acid","C20H30O2",302.5,"Not_Access","HMDB0248080","Not_Access",1,NA
+"Icosapentaenoic acid","Icosapentaenoic acid",TRUE,446284,"(5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid","C20H30O2",302.5,"C06428","HMDB0001999","28364",1,NA
+"His-Phe","His-Phe",TRUE,152198,"(2S)-2-[[(2S)-2-amino-3-(1H-imidazol-5-yl)propanoyl]amino]-3-phenylpropanoic acid","C15H18N4O3",302.33,"Not_Access","HMDB0028892","141438",1,NA
+"Neuromedin B (1-3)","Neuromedin B (1-3)",TRUE,53481577,"(2R)-2-[[(2S)-4-amino-2-[(2-aminoacetyl)amino]-4-oxobutanoyl]amino]-4-methylpentanoic acid","C12H22N4O5",302.33,"Not_Access","HMDB0013016","174895",1,NA
+"trichostatin A","trichostatin A",TRUE,444732,"(2E,4E,6R)-7-[4-(dimethylamino)phenyl]-N-hydroxy-4,6-dimethyl-7-oxohepta-2,4-dienamide","C17H22N2O3",302.37,"Not_Access","Not_Access","46024",1,NA
+"11beta-hydroxyandrost-4-ene-3,17-dione","11beta-hydroxyandrost-4-ene-3,17-dione",TRUE,94141,"(8S,9S,10R,11S,13S,14S)-11-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione","C19H26O3",302.4,"C05284","HMDB0006773","27967",1,NA
+"7alpha-Hydroxyandrostenedione","7alpha-Hydroxyandrostenedione",TRUE,65542,"(7R,8R,9S,10R,13S,14S)-7-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione","C19H26O3",302.4,"C05296","HMDB0006771","27768",1,NA
+"Glu-Arg","Glu-Arg",TRUE,9796450,"(4S)-4-amino-5-[[(1S)-1-carboxy-4-(diaminomethylideneamino)butyl]amino]-5-oxopentanoic acid","C11H21N5O5",303.32,"Not_Access","HMDB0028813","157844",1,NA
+"3-hydroxyoctanoyl carnitine","3-hydroxyoctanoyl carnitine",TRUE,86583357,"3-(3-hydroxyoctanoyloxy)-4-(trimethylazaniumyl)butanoate","C15H29NO5",303.39,"Not_Access","HMDB0061634","84100",1,NA
+"lycosantalonol","lycosantalonol",TRUE,154586066,"1-(2,3-dimethyl-3-tricyclo[2.2.1.02,6]heptanyl)-4-hydroxy-4,8-dimethylnon-7-en-3-one","C20H32O2",304.5,"Not_Access","Not_Access","Not_Access",1,NA
+"Methandriol","Methandriol",TRUE,229021,"(3S,8R,9S,10R,13S,14S,17S)-10,13,17-trimethyl-1,2,3,4,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthrene-3,17-diol","C20H32O2",304.5,"C14493","Not_Access","34834",1,NA
+"4,8,12-trimethyl-16-oxoheptadeca-4,8,12-trienal",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ala-Phe-Ala","Ala-Phe-Ala",TRUE,7019975,"(2S)-2-[[(2S)-2-[[(2S)-2-aminopropanoyl]amino]-3-phenylpropanoyl]amino]propanoic acid","C15H21N3O4",307.34,"Not_Access","Not_Access","158403",1,NA
+"Cytidine 2',3'-cyclic phosphate","Cytidine 2',3'-cyclic phosphate",TRUE,53481030,"1-[(3aR,6R,6aR)-2-hydroxy-6-(hydroxymethyl)-2-oxo-3a,4,6,6a-tetrahydrofuro[3,4-d][1,3,2]dioxaphosphol-4-yl]-4-aminopyrimidin-2-one","C9H12N3O7P",305.18,"Not_Access","HMDB0011691","177258",1,NA
+"cyclic-UMP","cyclic-UMP",TRUE,3081385,"1-[(4aR,6R,7R,7aS)-2,7-dihydroxy-2-oxo-4a,6,7,7a-tetrahydro-4H-furo[3,2-d][1,3,2]dioxaphosphinin-6-yl]pyrimidine-2,4-dione","C9H11N2O8P",306.17,"C22509","Not_Access","75175",1,NA
+"2',3'-Cyclic UMP","2',3'-Cyclic UMP",TRUE,439715,"1-[(3aR,4R,6R,6aR)-2-hydroxy-6-(hydroxymethyl)-2-oxo-3a,4,6,6a-tetrahydrofuro[3,4-d][1,3,2]dioxaphosphol-4-yl]pyrimidine-2,4-dione","C9H11N2O8P",306.17,"C02355","HMDB0011640","28637",1,NA
+"Propylenediamine tetra-acetic acid","Propylenediamine tetra-acetic acid",TRUE,20442,"2-[2-[bis(carboxymethyl)amino]propyl-(carboxymethyl)amino]acetic acid","C11H18N2O8",306.27,"Not_Access","HMDB0246676","Not_Access",1,NA
+"Dihydrocapsiate","Dihydrocapsiate",TRUE,9873754,"(4-hydroxy-3-methoxyphenyl)methyl 8-methylnonanoate","C18H28O4",308.4,"Not_Access","HMDB0034781","174951",1,NA
+"16-B1-phytoprostane","16-B1-phytoprostane",TRUE,50906754,"8-[2-[(E,3S)-3-hydroxypent-1-enyl]-5-oxocyclopenten-1-yl]octanoic acid","C18H28O4",308.4,"Not_Access","HMDB0304634","185510",1,NA
+"Tyrosyl-Gamma-glutamate","Tyrosyl-Gamma-glutamate",TRUE,131750790,"2-amino-5-[[2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-5-oxopentanoic acid","C14H19N3O5",309.32,"Not_Access","HMDB0029119","174962",1,NA
+"Glutaminyltyrosine","Glutaminyltyrosine",TRUE,9972600,"(2S)-2-[[(2S)-2,5-diamino-5-oxopentanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C14H19N3O5",309.32,"Not_Access","HMDB0028809","141432",1,NA
+"Tyrosyl-Glutamine","Tyrosyl-Glutamine",TRUE,7020179,"(2S)-5-amino-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-5-oxopentanoic acid","C14H19N3O5",309.32,"Not_Access","Not_Access","74881",1,NA
+"N-Acetylneuraminic acid","N-Acetylneuraminic acid",TRUE,439197,"(4S,5R,6R)-5-acetamido-2,4-dihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid","C11H19NO9",309.27,"C00270","Not_Access","17012",1,"Endogenous Metabolites"
+"10,13-epoxy-11-methyl-octadecadienoate","10,13-epoxy-11-methyl-octadecadienoate",TRUE,102515114,"9-(3-methyl-5-pentylfuran-2-yl)nonanoate","C19H31O3-",307.4,"Not_Access","Not_Access","Not_Access",1,NA
+"3,4-Dimethyl-5-propyl-2-furandecanoic acid","3,4-Dimethyl-5-propyl-2-furandecanoic acid",TRUE,129887344,"10-(3,4-dimethyl-5-propylfuran-2-yl)decanoic acid","C19H32O3",308.5,"Not_Access","HMDB0094643","Not_Access",1,NA
+"5-Hexyl-3,4-dimethyl-2-furanheptanoic acid","5-Hexyl-3,4-dimethyl-2-furanheptanoic acid",TRUE,85564663,"7-(5-hexyl-3,4-dimethylfuran-2-yl)heptanoic acid","C19H32O3",308.5,"Not_Access","HMDB0112090","Not_Access",1,NA
+"2-[2-(4-Nonylphenoxy)ethoxy]ethanol","2-[2-(4-Nonylphenoxy)ethoxy]ethanol",TRUE,24773,"2-[2-(4-nonylphenoxy)ethoxy]ethanol","C19H32O3",308.5,"Not_Access","HMDB0255709","Not_Access",1,"Extractables/Leachables"
+"13(S)-HpOTrE","13(S)-HpOTrE",TRUE,5497123,"(9Z,11E,13S,15Z)-13-hydroperoxyoctadeca-9,11,15-trienoic acid","C18H30O4",310.4,"C04785","HMDB0301803","48905",1,NA
+"10-Hydroxy-3-oxooctadecatrienoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12-oxo-13-hydroxy-9(Z), 15octadecadienoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10-oxo-9hydroxy-12(Z),15octadecadienoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10-oxo-13-hydroxy-11(E),15octadecadienoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5alpha-Androstane-3beta,7alpha,17beta-triol","5alpha-Androstane-3beta,7alpha,17beta-triol",TRUE,161274,"(3S,5R,7R,8R,9S,10S,13S,14S,17S)-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthrene-3,7,17-triol","C19H32O3",308.5,"Not_Access","Not_Access","85807",1,NA
+"juvenile hormone 0",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Octadeca-2,4-dienedioic acid","Octadeca-2,4-dienedioic acid",TRUE,54552159,"octadeca-2,4-dienedioic acid","C18H30O4",310.4,"Not_Access","Not_Access","Not_Access",1,NA
+"2HPOT",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9HPOT","9(S)-HPOT",TRUE,6450029,"(9S,10E,12Z,15Z)-9-hydroperoxyoctadeca-10,12,15-trienoic acid","C18H30O4",310.4,"C16321","Not_Access","60961",0.7143,NA
+"Tyrosyl-alanyl-glycine","Tyrosyl-alanyl-glycine",TRUE,5486959,"2-[[(2R)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]propanoyl]amino]acetic acid","C14H19N3O5",309.32,"Not_Access","Not_Access","Not_Access",1,NA
+"N2,N2-Dimethylguanosine","N2,N2-Dimethylguanosine",TRUE,135501639,"9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2-(dimethylamino)-1H-purin-6-one","C12H17N5O5",311.29,"Not_Access","HMDB0004824","19289",1,NA
+"2-Hydroxysterculic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Phenylalanine glutamate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Phenylalanylphenylalanine","Phenylalanylphenylalanine",TRUE,65104,"2-[(2-amino-3-phenylpropanoyl)amino]-3-phenylpropanoic acid","C18H20N2O3",312.4,"Not_Access","Not_Access","Not_Access",1,NA
+"6-Methylgingediol","6-Methylgingediol",TRUE,5319663,"1-(3,4-dimethoxyphenyl)decane-3,5-diol","C18H30O4",310.4,"Not_Access","HMDB0303099","229033",1,NA
+"Dihydroxyoctadeca-9,12,15-trienoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12,13-Epoxy-11-hydroxy-9,15-octadecadienoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13-Hydroperoxyoctadeca-9,11-dienoic acid","13-Hydroperoxyoctadeca-9,11-dienoic acid",TRUE,1426,"13-hydroperoxyoctadeca-9,11-dienoic acid","C18H32O4",312.4,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"Dihydroxyoctadecenoic acid","Dihydroxyoctadecenoic acid",TRUE,71403936,"2,3-dihydroxyoctadec-2-enoic acid","C18H34O4",314.5,"Not_Access","Not_Access","Not_Access",1,NA
+"Tyrosyl-Methionine","Tyrosyl-Methionine",TRUE,46937960,"(2S)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-4-methylsulfanylbutanoic acid","C14H20N2O4S",312.39,"Not_Access","Not_Access","134468",1,NA
+"2-Amino-3-[4-[2-amino-4-methylsulfanylbutanoyl]oxyphenyl]propanoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Methionyl-Tyrosine","Methionyl-Tyrosine",TRUE,7009558,"(2S)-2-[[(2S)-2-amino-4-methylsulfanylbutanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C14H20N2O4S",312.39,"Not_Access","Not_Access","73615",1,NA
+"Octadecanedioic acid","Octadecanedioic acid",TRUE,70095,"octadecanedioic acid","C18H34O4",314.5,"Not_Access","HMDB0000782","133086",1,NA
+"2-Methylthioadenosine","2-Methylthioadenosine",TRUE,3080604,"(2R,3R,4S,5R)-2-(6-amino-2-methylsulfanylpurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol","C11H15N5O4S",313.34,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"5'-Deoxy-5'-(methylsulfinyl)adenosine","5'-Deoxy-5'-(methylsulfinyl)adenosine",TRUE,165114,"(2R,3R,4S,5S)-2-(6-aminopurin-9-yl)-5-(methylsulfinylmethyl)oxolane-3,4-diol","C11H15N5O4S",313.34,"Not_Access","Not_Access","136554",1,NA
+"15-Deoxy-PGJ2","15-Deoxy-PGJ2",TRUE,5311211,"(Z)-7-[(1S,5E)-5-[(E)-oct-2-enylidene]-4-oxocyclopent-2-en-1-yl]hept-5-enoic acid","C20H28O3",316.4,"C14717","HMDB0005079","34159",1,NA
+"16-Dehydropregnenolone","16-Dehydropregnenolone",TRUE,92871,"1-[(3S,8R,9S,10R,13S,14S)-3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15-decahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone","C21H30O2",314.5,"Not_Access","HMDB0303027","27486",1,NA
+"Progesterone","Progesterone",TRUE,5994,"(8S,9S,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one","C21H30O2",314.5,"C00410","HMDB0001830","17026",1,"Endogenous Metabolites"
+"Dihydroxyoctadecanoic acid","Dihydroxyoctadecanoic acid",TRUE,20391236,"2,2-dihydroxyoctadecanoic acid","C18H36O4",316.5,"Not_Access","HMDB0302284","Not_Access",1,NA
+"N-Lauroyl Aspartic acid","N-Lauroyl Aspartic acid",TRUE,539904,"2-(dodecanoylamino)butanedioic acid","C16H29NO5",315.4,"Not_Access","HMDB0242029","Not_Access",1,NA
+"6-Hydroxynon-7-enoylcarnitine","6-Hydroxynon-7-enoylcarnitine",TRUE,156962726,"3-[(E)-6-hydroxynon-7-enoyl]oxy-4-(trimethylazaniumyl)butanoate","C16H29NO5",315.4,"Not_Access","HMDB0241751","Not_Access",1,NA
+"all-trans-5,6-Epoxyretinoic acid","all-trans-5,6-Epoxyretinoic acid",TRUE,5363137,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)nona-2,4,6,8-tetraenoic acid","C20H28O3",316.4,"C16680","HMDB0012451","80658",1,NA
+"Mytatrienediol","Mytatrienediol",TRUE,5282364,"(8R,9S,13S,14S,16S,17R)-3-methoxy-13,16-dimethyl-7,8,9,11,12,14,15,17-octahydro-6H-cyclopenta[a]phenanthrene-16,17-diol","C20H28O3",316.4,"C14242","Not_Access","34859",1,NA
+"all-trans-4-Hydroxyretinoic acid","all-trans-4-Hydroxyretinoic acid",TRUE,6438629,"(2E,4E,6E,8E)-9-(3-hydroxy-2,6,6-trimethylcyclohexen-1-yl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid","C20H28O3",316.4,"C16677","HMDB0006254","63795",1,NA
+"all-trans-18-Hydroxyretinoic acid","all-trans-18-Hydroxyretinoic acid",TRUE,6506224,"(2E,4E,6E,8E)-9-[2-(hydroxymethyl)-6,6-dimethylcyclohexen-1-yl]-3,7-dimethylnona-2,4,6,8-tetraenoic acid","C20H28O3",316.4,"C16679","HMDB0012452","80657",1,NA
+"12-OxoETE","12-OxoETE",TRUE,5283162,"(5Z,8Z,10E,14Z)-12-oxoicosa-5,8,10,14-tetraenoic acid","C20H30O3",318.4,"C14807","HMDB0013633","34151",1,NA
+"8-oxo-ETE","8-oxo-ETE",TRUE,71668340,"(5Z,9E,11Z,14Z)-8-oxoicosa-5,9,11,14-tetraenoic acid","C20H30O3",318.4,"Not_Access","Not_Access","75819",1,NA
+"18R-HEPE","18R-HEPE",TRUE,16061126,"(5Z,8Z,11Z,14Z,16E,18R)-18-hydroxyicosa-5,8,11,14,16-pentaenoic acid","C20H30O3",318.4,"C18177","HMDB0062222","81563",1,NA
+"Methyl [8]-Shogaol","Methyl [8]-Shogaol",TRUE,91721121,"(E)-1-(3,4-dimethoxyphenyl)dodec-4-en-3-one","C20H30O3",318.4,"Not_Access","HMDB0030101","191603",1,NA
+"3-oxo-icosatetraenoate","3-oxo-icosatetraenoate",TRUE,91820509,"(8Z,11Z,14Z,17Z)-3-oxoicosa-8,11,14,17-tetraenoate","C20H29O3-",317.4,"Not_Access","Not_Access","Not_Access",1,NA
+"17R,18S-Epoxy-5Z,8Z,11Z,14Z-icosatetraenoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20-HEPE","20-HEPE",TRUE,72551579,"(5Z,8Z,11Z,14Z,17Z)-20-hydroxyicosa-5,8,11,14,17-pentaenoic acid","C20H30O3",318.4,"Not_Access","Not_Access","76962",1,"Endogenous Metabolites"
+"12HEPE",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15HEPE",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15-HEPE","15-HEPE",TRUE,5353282,"(5E,8E,11E,13E,17E)-15-hydroxyicosa-5,8,11,13,17-pentaenoic acid","C20H30O3",318.4,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"Bilobol","Bilobol",TRUE,5281852,"5-[(Z)-pentadec-8-enyl]benzene-1,3-diol","C21H34O2",318.5,"C10770","Not_Access","3104",1,NA
+"Methyl Arachidonate","Methyl Arachidonate",TRUE,6421258,"methyl (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate","C21H34O2",318.5,"Not_Access","HMDB0062594","78033",1,NA
+"1-Hydroxy-2,5,12,15-heneicosatetraen-4-one",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ubiquinone Q2","Ubiquinone Q2",TRUE,5280346,"2-[(2E)-3,7-dimethylocta-2,6-dienyl]-5,6-dimethoxy-3-methylcyclohexa-2,5-diene-1,4-dione","C19H26O4",318.4,"C00399","HMDB0006709","46372",1,"Endogenous Metabolites"
+"2-Hydroxy-6-tridecylbenzoic acid","2-Hydroxy-6-tridecylbenzoic acid",TRUE,161306,"2-hydroxy-6-tridecylbenzoic acid","C20H32O3",320.5,"Not_Access","HMDB0038520","175101",1,NA
+"15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3-Heptadeca-1,3-dienyloxirene-2-carboxylic acid","3-Heptadeca-1,3-dienyloxirene-2-carboxylic acid",TRUE,22381023,"3-[(1E,3E)-heptadeca-1,3-dienyl]oxirene-2-carboxylic acid","C20H32O3",320.5,"Not_Access","HMDB0257627","Not_Access",1,NA
+"Arg-Phe","Arg-Phe",TRUE,150964,"(2S)-2-[[(2S)-2-amino-5-(diaminomethylideneamino)pentanoyl]amino]-3-phenylpropanoic acid","C15H23N5O3",321.37,"Not_Access","HMDB0028716","73818",1,NA
+"8HETrE","8-HETrE",TRUE,71306337,"(9E,11Z,14Z)-8-hydroxyicosa-9,11,14-trienoic acid","C20H34O3",322.5,"Not_Access","Not_Access","72866",0.9231,"Endogenous Metabolites"
+"17beta-Methoxyandrost-5-ene-3beta,16beta-diol","17beta-Methoxyandrost-5-ene-3beta,16beta-diol",TRUE,255438,"(3S,8R,9S,10R,13S,14S,16S,17R)-17-methoxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,16-diol","C20H32O3",320.5,"C15138","Not_Access","79656",1,NA
+"3beta-Hydroxy-16beta-(hydroxymethyl)-5alpha-androstan-17-one","3beta-Hydroxy-16beta-(hydroxymethyl)-5alpha-androstan-17-one",TRUE,11954089,"(3S,5S,8R,9S,10S,13S,14S,16R)-3-hydroxy-16-(hydroxymethyl)-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,14,15,16-tetradecahydrocyclopenta[a]phenanthren-17-one","C20H32O3",320.5,"C14961","Not_Access","79485",1,NA
+"beta-Citryl-glutamate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"auricolate","Taurocholate",TRUE,6675,"2-[[(4R)-4-[(3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoyl]amino]ethanesulfonic acid","C26H45NO7S",515.7,"Not_Access","HMDB0000036","28865",0.8182,"Endogenous Metabolites"
+"5-[4-Hydroxy-2-[3-hydroxyoct-1-enyl]oxan-3-yl]pent-3-enoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2,3-Dinor-8-iso prostaglandin F2alpha","2,3-Dinor-8-iso prostaglandin F2alpha",TRUE,9548881,"(Z)-5-[(1S,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]pent-3-enoic acid","C18H30O5",326.4,"C14794","Not_Access","34230",1,NA
+"1-Acetoxy-2-hydroxy-16-heptadecyn-4-one","1-Acetoxy-2-hydroxy-16-heptadecyn-4-one",TRUE,6710762,"(2-hydroxy-4-oxoheptadec-16-ynyl) acetate","C19H32O4",324.5,"Not_Access","HMDB0031007","171783",1,NA
+"1-Acetoxy-2-hydroxy-16-heptadecen-4-one","1-Acetoxy-2-hydroxy-16-heptadecen-4-one",TRUE,56968446,"(2-hydroxy-4-oxoheptadec-16-enyl) acetate","C19H34O4",326.5,"Not_Access","HMDB0031006","169753",1,NA
+"Avocadyne 1-acetate","Avocadyne 1-acetate",TRUE,3952079,"2,4-dihydroxyheptadec-16-ynyl acetate","C19H34O4",326.5,"Not_Access","HMDB0031048","168762",1,NA
+"Phe-Tyr","Phe-Tyr",TRUE,515709,"(2S)-2-[[(2S)-2-amino-3-phenylpropanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C18H20N2O4",328.4,"Not_Access","HMDB0029007","73637",1,NA
+"2,3-Dinor-8-iso prostaglandin F1alpha","2,3-Dinor-8-iso prostaglandin F1alpha",TRUE,9548882,"5-[(1S,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]pentanoic acid","C18H32O5",328.4,"C14795","Not_Access","34229",1,NA
+"Adenosine 2',3'-cyclic phosphate","Adenosine 2',3'-cyclic phosphate",TRUE,2024,"[4-(6-aminopurin-9-yl)-2-hydroxy-2-oxo-3a,4,6,6a-tetrahydrofuro[3,4-d][1,3,2]dioxaphosphol-6-yl]methanol","C10H12N5O6P",329.21,"Not_Access","HMDB0011616","175195",1,NA
+"9,12,13-TriHOME","9,12,13-TriHOME",TRUE,9858729,"(E,9S,12S,13S)-9,12,13-trihydroxyoctadec-10-enoic acid","C18H34O5",330.5,"C14833","HMDB0004708","34506",1,NA
+"N-Myristoyl Threonine","N-Myristoyl Threonine",TRUE,19962828,"3-hydroxy-2-(tetradecanoylamino)butanoic acid","C18H35NO4",329.5,"Not_Access","HMDB0242060","231154",1,NA
+"[10]-Shogaol","[10]-Shogaol",TRUE,6442612,"(E)-1-(4-hydroxy-3-methoxyphenyl)tetradec-4-en-3-one","C21H32O3",332.5,"Not_Access","HMDB0031462","192883",1,NA
+"Prostaglandin A2","Prostaglandin A2",TRUE,5280880,"(Z)-7-[(1R,2S)-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopent-3-en-1-yl]hept-5-enoic acid","C20H30O4",334.4,"C05953","HMDB0002752","27820",1,"Endogenous Metabolites"
+"Prostaglandin J2","Prostaglandin J2",TRUE,5280884,"(Z)-7-[(1S,5R)-5-[(E,3S)-3-hydroxyoct-1-enyl]-4-oxocyclopent-2-en-1-yl]hept-5-enoic acid","C20H30O4",334.4,"C05957","HMDB0002710","27485",1,"Endogenous Metabolites"
+"Prostaglandin C2","Prostaglandin C2",TRUE,5280882,"(Z)-7-[(1R)-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopent-2-en-1-yl]hept-5-enoic acid","C20H30O4",334.4,"C05955","HMDB0060095","27555",1,NA
+"5-oxo-15HETE",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Di-n-hexyl phthalate","Di-n-hexyl phthalate",TRUE,6786,"dihexyl benzene-1,2-dicarboxylate","C20H30O4",334.4,"C14504","HMDB0251287","34678",1,"Extractables/Leachables"
+"15-dehydro-prostaglandin B1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15d PGD2","15d PGD2",TRUE,131769805,"(Z)-7-[(1S,2E,5R)-5-hydroxy-2-[(Z)-oct-2-enylidene]-3-oxocyclopentyl]hept-5-enoic acid","C20H30O4",334.4,"Not_Access","HMDB0060046","180840",1,NA
+"3,4-Dihexylphthalic Acid","3,4-Dihexylphthalic Acid",TRUE,11515522,"3,4-dihexylphthalic acid","C20H30O4",334.4,"Not_Access","HMDB0258114","Not_Access",1,NA
+"5HpEPE","5(S)-HpEPE",TRUE,5283184,"(5S,6E,8Z,11Z,14Z,17Z)-5-hydroperoxyicosa-6,8,11,14,17-pentaenoic acid","C20H30O4",334.4,"Not_Access","Not_Access","165271",0.75,"Endogenous Metabolites"
+"Resolvin E3",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12HpEPE","12(S)-HpEPE",TRUE,5283195,"(5Z,8Z,10E,12S,14Z,17Z)-12-hydroperoxyicosa-5,8,10,14,17-pentaenoic acid","C20H30O4",334.4,"Not_Access","Not_Access","90996",0.7778,"Endogenous Metabolites"
+"15HpEPE","15S-HpEPE",TRUE,5283196,"(5Z,8Z,11Z,13E,17Z)-15-hydroperoxyicosa-5,8,11,13,17-pentaenoic acid","C20H30O4",334.4,"Not_Access","Not_Access","165266",0.875,"Endogenous Metabolites"
+"7'-Carboxy-gamma-tocotrienol","7'-Carboxy-gamma-tocotrienol",TRUE,53481532,"(E)-7-[(2R)-6-hydroxy-2,7,8-trimethyl-3,4-dihydrochromen-2-yl]-4-methylhept-4-enoic acid","C20H28O4",332.4,"Not_Access","HMDB0012851","Not_Access",1,NA
+"5,6-Epoxy-18R-HEPE","5,6-Epoxy-18R-HEPE",TRUE,46174066,"4-[3-[(1E,3E,5E,8Z,10E,12R)-12-hydroxytetradeca-1,3,5,8,10-pentaenyl]oxiran-2-yl]butanoic acid","C20H28O4",332.4,"C18175","HMDB0062410","81561",1,NA
+"20-carboxyarachidonate","20-Carboxyarachidonic acid",TRUE,6437827,"(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenedioic acid","C20H30O4",334.4,"Not_Access","Not_Access","76966",0.8333,NA
+"17beta-Hydroxy-4-oxa-5alpha-androstan-3-one acetate","17beta-Hydroxy-4-oxa-5alpha-androstan-3-one acetate",TRUE,11954080,"[(1S,3aS,3bR,5aR,9aR,9bS,11aS)-9a,11a-dimethyl-7-oxo-2,3,3a,3b,4,5,5a,8,9,9b,10,11-dodecahydro-1H-indeno[5,4-f]chromen-1-yl] acetate","C20H30O4",334.4,"C14913","Not_Access","79438",1,NA
+"Prostaglandin B2","Prostaglandin B2",TRUE,5280881,"(Z)-7-[2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopenten-1-yl]hept-5-enoic acid","C20H30O4",334.4,"C05954","Not_Access","28099",1,"Endogenous Metabolites"
+"Delta-12-Prostaglandin J2","Delta-12-Prostaglandin J2",TRUE,5280885,"(Z)-7-[(1S,5E)-5-[(3S)-3-hydroxyoctylidene]-4-oxocyclopent-2-en-1-yl]hept-5-enoic acid","C20H30O4",334.4,"C05958","HMDB0004238","28130",1,NA
+"Methyl-[8]-gingerol","Methyl-[8]-gingerol",TRUE,86217089,"1-(3,4-dimethoxyphenyl)-5-hydroxydodecan-3-one","C20H32O4",336.5,"Not_Access","HMDB0303112","192219",1,NA
+"Isopentenyladenosine","Isopentenyladenosine",TRUE,24405,"(2R,3S,4R,5R)-2-(hydroxymethyl)-5-[6-(3-methylbut-2-enylamino)purin-9-yl]oxolane-3,4-diol","C15H21N5O4",335.36,"C16427","HMDB0304396","62881",1,NA
+"11-Hydroxy-3,7,11,15-tetramethyl-14-oxohexadeca-3,7,12-trienoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5,6-DHET","5,6-DHET",TRUE,5283142,"(8Z,11Z,14Z)-5,6-dihydroxyicosa-8,11,14-trienoic acid","C20H34O4",338.5,"C14772","HMDB0002343","63974",1,NA
+"Prostaglandin B1","Prostaglandin B1",TRUE,5280388,"7-[2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopenten-1-yl]heptanoic acid","C20H32O4",336.5,"C00959","HMDB0002982","27624",1,"Endogenous Metabolites"
+"Erucamide","Erucamide",TRUE,5365371,"(Z)-docos-13-enamide","C22H43NO",337.6,"Not_Access","Not_Access","142245",1,"Industrial Chemicals"
+"13-Hydroxy-9-methoxy-10-oxo-11-octadecenoic acid","13-Hydroxy-9-methoxy-10-oxo-11-octadecenoic acid",TRUE,6366720,"(E)-13-hydroxy-9-methoxy-10-oxooctadec-11-enoic acid","C19H34O5",342.5,"Not_Access","HMDB0040901","171679",1,NA
+"2,3-Dinor-TXB1","2,3-Dinor-TXB1",TRUE,52921884,"5-[(1R,2S,6R)-2,4-dihydroxy-6-[(E,3S)-3-hydroxyoct-1-enyl]cyclohexyl]pentanoic acid","C19H34O5",342.5,"Not_Access","Not_Access","165348",1,NA
+"Norethindrone acetate","Norethindrone acetate",TRUE,5832,"[(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-3-oxo-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate","C22H28O3",340.5,"C08152","Not_Access","7628",1,NA
+"Epoxydocosapentaenoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14-Hydroxydocosahexaenoic acid","14-Hydroxydocosahexaenoic acid",TRUE,6439735,"(2E,4E,6E,8E,10E,12E)-14-hydroxydocosa-2,4,6,8,10,12-hexaenoic acid","C22H32O3",344.5,"Not_Access","HMDB0244585","Not_Access",1,"Endogenous Metabolites"
+"14-oxo-DoHE(1-)","14-oxo-DoHE(1-)",TRUE,118796880,"(4Z,7Z,10Z,12E,16Z,19Z)-14-oxodocosa-4,7,10,12,16,19-hexaenoate","C22H29O3-",341.5,"Not_Access","Not_Access","90867",1,NA
+"Guggulsterone","Guggulsterone",TRUE,6450278,"(8R,9S,10R,13S,14S,17Z)-17-ethylidene-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthrene-3,16-dione","C21H28O2",312.4,"Not_Access","Not_Access","135338",1,NA
+"2-hydroxy-6-[pentadeca-8,11,14-trienyl]benzoate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3-one-23,24-bisnorchol-1,4-dien-22-oate","3-one-23,24-bisnorchol-1,4-dien-22-oate",TRUE,90657838,"(2S)-2-[(8S,9S,10R,13S,14S,17R)-10,13-dimethyl-3-oxo-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl]propanoate","C22H29O3-",341.5,"Not_Access","Not_Access","85551",1,NA
+"epoxy-maresin",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrosyl-Tyrosine","Tyrosyl-Tyrosine",TRUE,70590,"(2S)-2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-3-(4-hydroxyphenyl)propanoic acid","C18H20N2O5",344.4,"Not_Access","Not_Access","60989",1,NA
+"tyrosine-tyrosinate","tyrosine-tyrosinate",TRUE,54170601,"(2S)-2-amino-3-[4-[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]oxyphenyl]propanoic acid","C18H20N2O5",344.4,"Not_Access","Not_Access","Not_Access",1,NA
+"1,2-dioctanoylglycerol","1,2-dioctanoylglycerol",TRUE,1323,"(3-hydroxy-2-octanoyloxypropyl) octanoate","C19H36O5",344.5,"Not_Access","HMDB0244086","Not_Access",1,NA
+"1-O-Myristoyl-2-acetyl-glycerol","1-O-Myristoyl-2-acetyl-glycerol",TRUE,124835,"(2-acetyloxy-3-hydroxypropyl) tetradecanoate","C19H36O5",344.5,"Not_Access","HMDB0249917","231231",1,NA
+"3-Hydroxyneogrifolin","3-Hydroxyneogrifolin",TRUE,5318298,"5-methyl-4-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]benzene-1,2,3-triol","C22H32O3",344.5,"Not_Access","HMDB0039885","191701",1,NA
+"Anacardic acid","Anacardic acid",TRUE,167551,"2-hydroxy-6-pentadecylbenzoic acid","C22H36O3",348.5,"C10759","HMDB0029683","2696",1,NA
+"3-oxo-23,24-bisnorchol-4-en-22-oate","3-oxo-23,24-bisnorchol-4-en-22-oate",TRUE,86290136,"(2S)-2-[(8S,9S,10R,13S,14S,17R)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]propanoate","C22H31O3-",343.5,"Not_Access","Not_Access","83777",1,NA
+"Sorbitan laurate","Sorbitan laurate",TRUE,347468,"[2-(3,4-dihydroxyoxolan-2-yl)-2-hydroxyethyl] dodecanoate","C18H34O6",346.5,"Not_Access","HMDB0029885","169001",1,"Extractables/Leachables"
+"2'-Deoxyguanosine 5'-monophosphate (dGMP)","2'-Deoxyguanosine monohydrate",TRUE,135445705,"2-amino-9-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one;hydrate","C10H15N5O5",285.26,"Not_Access","Not_Access","Not_Access",0.7429,NA
+"Adenosine 3'-monophosphate","Adenosine 3'-monophosphate",TRUE,41211,"[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] dihydrogen phosphate","C10H14N5O7P",347.22,"C01367","HMDB0003540","28931",1,"Endogenous Metabolites"
+"Adenosine monophosphate (AMP)","Adenosine monophosphate (AMP)",TRUE,6083,"[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate","C10H14N5O7P",347.22,"C00020","HMDB0000045","16027",1,NA
+"Cortexolone","Cortexolone",TRUE,440707,"(8R,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one","C21H30O4",346.5,"C05488","HMDB0000015","28324",1,NA
+"Corticosterone","Corticosterone",TRUE,5753,"(8S,9S,10R,11S,13S,14S,17S)-11-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one","C21H30O4",346.5,"C02140","HMDB0001547","16827",1,"Endogenous Metabolites"
+"18-dehydro-resolvin E1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15-dehydro-prostaglandin E3",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Resolvin E1","Resolvin E1",TRUE,10473088,"(5S,6Z,8E,10E,12R,14Z,16E,18R)-5,12,18-trihydroxyicosa-6,8,10,14,16-pentaenoic acid","C20H30O5",350.4,"C18171","Not_Access","81559",1,"Endogenous Metabolites"
+"20-oxo-leukotriene B4","20-oxo-leukotriene B4",TRUE,6449839,"(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxy-20-oxoicosa-6,8,10,14-tetraenoic acid","C20H30O5",350.4,"Not_Access","HMDB0012641","63979",1,NA
+"15-dehydro-13,14-dihydro-prostaglandin E3",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prostaglandin K2","prostaglandin K2",TRUE,5283037,"(Z)-7-[(1R,2R)-2-[(E,3S)-3-hydroxyoct-1-enyl]-3,5-dioxocyclopentyl]hept-5-enoic acid","C20H30O5",350.4,"Not_Access","Not_Access","165341",1,"Endogenous Metabolites"
+"12,20-Dioxo-leukotriene B4","12,20-Dioxo-leukotriene B4",TRUE,122164848,"(5S,6Z,8E,10E,14Z)-5-hydroxy-12,20-dioxoicosa-6,8,10,14-tetraenoic acid","C20H28O5",348.4,"Not_Access","HMDB0060094","134520",1,NA
+"15-oxolipoxin A4","15-oxolipoxin A4",TRUE,52921886,"(5S,6R,7E,9E,11Z,13E)-5,6-dihydroxy-15-oxoicosa-7,9,11,13-tetraenoic acid","C20H30O5",350.4,"Not_Access","HMDB0062300","63992",1,NA
+"thromboxane A3","Thromboxane A3",TRUE,5283139,"(Z)-7-[(1S,3R,4S,5S)-3-[(1E,3S,5Z)-3-hydroxyocta-1,5-dienyl]-2,6-dioxabicyclo[3.1.1]heptan-4-yl]hept-5-enoic acid","C20H30O5",350.4,"Not_Access","Not_Access","165349",1,NA
+"prostaglandin H3","prostaglandin H3",TRUE,101600091,"(Z)-7-[(1R,4S,5R,6R)-6-[(1E,3S,5Z)-3-hydroxyocta-1,5-dienyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C20H30O5",350.4,"Not_Access","HMDB0013040","134407",1,"Endogenous Metabolites"
+"17,21-Dihydroxypregnane-3,20-dione",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17,20,21-Trihydroxypregn-4-en-3-one","17,20,21-Trihydroxypregn-4-en-3-one",TRUE,160794,"(8R,9S,10R,13S,14S,17R)-17-(1,2-dihydroxyethyl)-17-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one","C21H32O4",348.5,"Not_Access","Not_Access","Not_Access",1,NA
+"3alpha,21-Dihydroxy-5beta-pregnane-11,20-dione",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ExMrn00039067",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5S-Hydroperoxy-18R-HEPE","5S-Hydroperoxy-18R-HEPE",TRUE,46174067,"(5S,6E,8Z,11Z,14Z,16E,18R)-5-hydroperoxy-18-hydroxyicosa-6,8,11,14,16-pentaenoic acid","C20H30O5",350.4,"C18176","Not_Access","132908",1,NA
+"7'-Carboxy-alpha-chromanol","7'-Carboxy-alpha-chromanol",TRUE,53481529,"7-[(2R)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromen-2-yl]-4-methylheptanoic acid","C21H32O4",348.5,"Not_Access","HMDB0012848","175455",1,NA
+"Deoxycortisol","11-Deoxycortisol",TRUE,440707,"(8R,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one","C21H30O4",346.5,"C05488","HMDB0000015","28324",0.8966,"Endogenous Metabolites"
+"trihydroxy-4-pregnen-3-one","trihydroxy-4-pregnen-3-one",TRUE,57062794,"(8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-(2,2,2-trihydroxyethyl)-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one","C21H32O4",348.5,"Not_Access","Not_Access","Not_Access",1,NA
+"Tetrahydrocorticosterone","Tetrahydrocorticosterone",TRUE,65553,"1-[(3R,5R,8S,9S,10S,11S,13S,14S,17S)-3,11-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2-hydroxyethanone","C21H34O4",350.5,"C05476","HMDB0000268","9481",1,"Endogenous Metabolites"
+"[10]-Gingerdione","[10]-Gingerdione",TRUE,14440539,"1-(4-hydroxy-3-methoxyphenyl)tetradecane-3,5-dione","C21H32O4",348.5,"Not_Access","HMDB0029475","175457",1,NA
+"[8]-Paradyl acetate","[8]-Paradyl acetate",TRUE,131752880,"[2-methoxy-4-(3-oxododecyl)phenyl] acetate","C21H32O4",348.5,"Not_Access","HMDB0040641","175458",1,NA
+"10-Gingerdione","10-Gingerdione",TRUE,5317591,"(Z)-3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)tetradec-3-en-5-one","C21H32O4",348.5,"Not_Access","HMDB0303089","Not_Access",1,NA
+"Isocarbacyclin","Isocarbacyclin",TRUE,5311244,"5-[(3aS,5R,6R,6aS)-5-hydroxy-6-[(E,3S)-3-hydroxyoct-1-enyl]-1,3a,4,5,6,6a-hexahydropentalen-2-yl]pentanoic acid","C21H34O4",350.5,"Not_Access","Not_Access","231208",1,NA
+"15-Hydroxy-11alpha,9alpha-(epoxymethano)prosta-5,13-dienoic acid","15-Hydroxy-11alpha,9alpha-(epoxymethano)prosta-5,13-dienoic acid",TRUE,5354027,"(E)-7-[6-[(E)-3-hydroxyoct-1-enyl]-2-oxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C21H34O4",350.5,"Not_Access","HMDB0244668","Not_Access",1,NA
+"5-Heptenoic acid, 7-(3-(3-hydroxy-1-octen-1-yl)-7-oxabicyclo(2.2.1)hept-2-yl)-,",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Prostaglandin H2 (PGH2)","prostaglandin h2",TRUE,445049,"(Z)-7-[(1R,4S,5R,6R)-6-[(E,3S)-3-hydroxyoct-1-enyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C20H32O5",352.5,"C00427","HMDB0001381","15554",0.8205,"Endogenous Metabolites"
+"Prostaglandin D2 (PGD2)","prostaglandin D2",TRUE,448457,"(Z)-7-[(1R,2R,5S)-5-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-3-oxocyclopentyl]hept-5-enoic acid","C20H32O5",352.5,"C00696","HMDB0001403","15555",0.8205,"Endogenous Metabolites"
+"Prostaglandin E2 (PGE2)","Prostaglandin E2",TRUE,5280360,"(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]hept-5-enoic acid","C20H32O5",352.5,"C00584","HMDB0001220","15551",0.8205,"Endogenous Metabolites"
+"12-Oxo-20-hydroxy-leukotriene B4","12-Oxo-20-hydroxy-leukotriene B4",TRUE,53481459,"(5R,6Z,8E,10E,14Z)-5,20-dihydroxy-12-oxoicosa-6,8,10,14-tetraenoic acid","C20H30O5",350.4,"Not_Access","HMDB0012552","Not_Access",1,NA
+"Thromboxane A2","Thromboxane A2",TRUE,5280497,"(Z)-7-[(1S,3R,4S,5S)-3-[(E,3S)-3-hydroxyoct-1-enyl]-2,6-dioxabicyclo[3.1.1]heptan-4-yl]hept-5-enoic acid","C20H32O5",352.5,"C02198","HMDB0001452","15627",1,NA
+"[6]-Gingerdiol acetate methyl ether","[6]-Gingerdiol acetate methyl ether",TRUE,11416878,"[1-(3,4-dimethoxyphenyl)-3-hydroxydecan-5-yl] acetate","C20H32O5",352.5,"Not_Access","HMDB0303098","Not_Access",1,NA
+"lipoxin A5",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Prostaglandin I2 (PGI2)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1-Monolinolenoyl-rac-glycerol","1-Monolinolenoyl-rac-glycerol",TRUE,5872092,"2,3-dihydroxypropyl (9E,12E,15E)-octadeca-9,12,15-trienoate","C21H36O4",352.5,"Not_Access","HMDB0252853","Not_Access",1,NA
+"Alprostadil","Alprostadil",TRUE,5280723,"7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]heptanoic acid","C20H34O5",354.5,"C04741","HMDB0001442","15544",1,"Endogenous Metabolites"
+"Prostaglandin F2alpha (PGF2a)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Prostaglandin H2","Prostaglandin H2",TRUE,445049,"(Z)-7-[(1R,4S,5R,6R)-6-[(E,3S)-3-hydroxyoct-1-enyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C20H32O5",352.5,"C00427","HMDB0001381","15554",1,"Endogenous Metabolites"
+"MG 18:2",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13,14-dihydro-prostaglandin F2alpha","13,14-dihydro-prostaglandin F2alpha",TRUE,5283080,"(Z)-7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(3S)-3-hydroxyoctyl]cyclopentyl]hept-5-enoic acid","C20H36O5",356.5,"Not_Access","Not_Access","88346",1,NA
+"Prostaglandin F1alpha","Prostaglandin F1alpha",TRUE,5280939,"7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]heptanoic acid","C20H36O5",356.5,"C06475","HMDB0002685","28852",1,NA
+"13,14-dihydro-prostaglandin E1","13,14-dihydro-prostaglandin E1",TRUE,161273,"7-[(1R,2R,3R)-3-hydroxy-2-[(3S)-3-hydroxyoctyl]-5-oxocyclopentyl]heptanoic acid","C20H36O5",356.5,"Not_Access","HMDB0002689","89310",1,"Endogenous Metabolites"
+"14-HDoHE","14-HDoHE",TRUE,11566378,"(4Z,7Z,10Z,12E,16Z,19Z)-14-hydroxydocosa-4,7,10,12,16,19-hexaenoic acid","C22H32O3",344.5,"Not_Access","Not_Access","72647",1,NA
+"1-Formylneogrifolin","1-Formylneogrifolin",TRUE,131752742,"4,5-dihydroxy-2-methyl-3-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]benzaldehyde","C23H32O3",356.5,"Not_Access","HMDB0039880","172584",1,NA
+"16-Dehydropregnenolone acetate","16-Dehydropregnenolone acetate",TRUE,92855,"[(3S,8R,9S,10R,13S,14S)-17-acetyl-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15-decahydro-1H-cyclopenta[a]phenanthren-3-yl] acetate","C23H32O3",356.5,"C14503","Not_Access","34163",1,NA
+"1,2-dioctanoyl-1,2,4-butanetriol","1,2-dioctanoyl-1,2,4-butanetriol",TRUE,44237128,"(4-hydroxy-2-octanoyloxybutyl) octanoate","C20H38O5",358.5,"Not_Access","Not_Access","Not_Access",1,NA
+"13,14-dihydro-prostaglandin F1alpha",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Piperochromanoic acid","Piperochromanoic acid",TRUE,13845940,"2-[(3Z)-4,8-dimethylnona-3,7-dienyl]-8-hydroxy-3-methylidene-4H-chromene-6-carboxylic acid","C22H28O4",356.5,"Not_Access","HMDB0040634","175587",1,NA
+"Pregnenolone acetate","Pregnenolone acetate",TRUE,2723722,"[(3S,8S,9S,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] acetate","C23H34O3",358.5,"C14658","Not_Access","34930",1,NA
+"17abeta-Hydroxy-homoandrost-4-en-3-one propionate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Testosterone isobutyrate","Testosterone isobutyrate",TRUE,92149,"[(8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] 2-methylpropanoate","C23H34O3",358.5,"Not_Access","Not_Access","Not_Access",1,NA
+"Dityrosine","Dityrosine",TRUE,107904,"2-amino-3-[3-[5-(2-amino-2-carboxyethyl)-2-hydroxyphenyl]-4-hydroxyphenyl]propanoic acid","C18H20N2O6",360.4,"Not_Access","HMDB0254132","50607",1,NA
+"Cortisone","Cortisone",TRUE,222786,"(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,12,14,15,16-decahydrocyclopenta[a]phenanthrene-3,11-dione","C21H28O5",360.4,"C00762","HMDB0002802","16962",1,"Endogenous Metabolites"
+"17R-hydroperoxydocosahexaenoate","17R-hydroperoxydocosahexaenoate",TRUE,91820295,"(4Z,7Z,10Z,13Z,15E,17R,19Z)-17-hydroperoxydocosa-4,7,10,13,15,19-hexaenoate","C22H31O4-",359.5,"Not_Access","Not_Access","Not_Access",1,NA
+"10-Hydroperoxydocosahexaenoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"HpDHA","17S-HpDHA",TRUE,52921992,"(4Z,7Z,10Z,13Z,15E,17S,19Z)-17-hydroperoxydocosa-4,7,10,13,15,19-hexaenoic acid","C22H32O4",360.5,"Not_Access","Not_Access","136113",0.7143,NA
+"protectin DX","protectin DX",TRUE,11667655,"(4Z,7Z,10S,11E,13Z,15E,17S,19Z)-10,17-dihydroxydocosa-4,7,11,13,15,19-hexaenoic acid","C22H32O4",360.5,"Not_Access","Not_Access","138653",1,NA
+"maresin 1","maresin 1",TRUE,60201795,"(4Z,7R,8E,10E,12Z,14S,16Z,19Z)-7,14-dihydroxydocosa-4,8,10,12,16,19-hexaenoic acid","C22H32O4",360.5,"Not_Access","Not_Access","138249",1,NA
+"resolvin D5","resolvin D5",TRUE,16061139,"(5Z,7S,8E,10Z,13Z,15E,17S,19Z)-7,17-dihydroxydocosa-5,8,10,13,15,19-hexaenoic acid","C22H32O4",360.5,"Not_Access","HMDB0004038","138645",1,NA
+"Cannabigerolate","Cannabigerolate",TRUE,54740349,"2-carboxy-6-[(2E)-3,7-dimethylocta-2,6-dienyl]-5-hydroxy-3-pentylphenolate","C22H31O4-",359.5,"Not_Access","Not_Access","66962",1,NA
+"Guanosine 5'-monophosphate (GMP)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"guanosine 2'-monophosphate","guanosine 2'-monophosphate",TRUE,135460966,"[(2R,3R,4R,5R)-2-(2-amino-6-oxo-1H-purin-9-yl)-4-hydroxy-5-(hydroxymethyl)oxolan-3-yl] dihydrogen phosphate","C10H14N5O8P",363.22,"Not_Access","HMDB0240586","74948",1,NA
+"Guanosine 3'-phosphate","Guanosine 3'-phosphate",TRUE,135398727,"[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] dihydrogen phosphate","C10H14N5O8P",363.22,"C06193","HMDB0240587","28072",1,NA
+"8-Oxo-dGMP","8-Oxo-dGMP",TRUE,135488904,"[(2R,3S,5R)-5-(2-amino-6,8-dioxo-1,7-dihydropurin-9-yl)-3-hydroxyoxolan-2-yl]methyl dihydrogen phosphate","C10H14N5O8P",363.22,"C19968","Not_Access","63223",1,NA
+"Tetrahydrocortisone","Tetrahydrocortisone",TRUE,5866,"(3R,5R,8S,9S,10S,13S,14S,17R)-3,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,3,4,5,6,7,8,9,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-11-one","C21H32O5",364.5,"C05470","Not_Access","9901",1,"Endogenous Metabolites"
+"2-Icosa-5,8,11,14-tetraen-2-yloxypropane-1,3-diol","2-Icosa-5,8,11,14-tetraen-2-yloxypropane-1,3-diol",TRUE,156963539,"2-[(5E,8E,11E,14E)-icosa-5,8,11,14-tetraen-2-yl]oxypropane-1,3-diol","C23H40O3",364.6,"Not_Access","HMDB0255389","Not_Access",1,NA
+"3-Icosa-5,8,11,14-tetraen-2-yloxypropane-1,2-diol","3-Icosa-5,8,11,14-tetraen-2-yloxypropane-1,2-diol",TRUE,21984831,"3-[(5E,8E,11E,14E)-icosa-5,8,11,14-tetraen-2-yl]oxypropane-1,2-diol","C23H40O3",364.6,"Not_Access","HMDB0260248","Not_Access",1,NA
+"2-arachidonoyl glyceryl ether","2-arachidonoyl glyceryl ether",TRUE,6483057,"2-[(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoxy]propane-1,3-diol","C23H40O3",364.6,"Not_Access","HMDB0013657","75913",1,NA
+"alpha-C-Mannosyltryptophan","alpha-C-Mannosyltryptophan",TRUE,10981970,"(2S)-2-amino-3-[2-[(2R,3S,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]-1H-indol-3-yl]propanoic acid","C17H22N2O7",366.4,"Not_Access","HMDB0240296","19232",1,NA
+"20-COOH-Leukotriene B4","20-COOH-Leukotriene B4",TRUE,5280877,"(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenedioic acid","C20H30O6",366.4,"C05950","HMDB0006059","27562",1,NA
+"12-oxo-10,11-dihydro-20-COOH-LTB4","12-oxo-10,11-dihydro-20-COOH-LTB4",TRUE,53481456,"(5R,6Z,8E,14Z)-5-hydroxy-12-oxoicosa-6,8,14-trienedioic acid","C20H30O6",366.4,"Not_Access","HMDB0012549","175705",1,NA
+"12-oxo-20-dihydroxy-leukotriene B4","12-oxo-20-dihydroxy-leukotriene B4",TRUE,53481458,"(5R,6Z,8E,10E,14Z)-5,20,20-trihydroxy-12-oxoicosa-6,8,10,14-tetraenoic acid","C20H30O6",366.4,"Not_Access","HMDB0012551","175707",1,NA
+"Arbaprostil","Arbaprostil",TRUE,5283064,"(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3R)-3-hydroxy-3-methyloct-1-enyl]-5-oxocyclopentyl]hept-5-enoic acid","C21H34O5",366.5,"Not_Access","Not_Access","184592",1,NA
+"Prostaglandin E2 methyl ester","Prostaglandin E2 methyl ester",TRUE,5458174,"methyl (Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]hept-5-enoate","C21H34O5",366.5,"Not_Access","Not_Access","197137",1,NA
+"Prostaglandin G2","Prostaglandin G2",TRUE,5280883,"(Z)-7-[(1R,4S,5R,6R)-6-[(E,3S)-3-hydroperoxyoct-1-enyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C20H32O6",368.5,"C05956","HMDB0003235","27647",1,NA
+"Carboprost","Carboprost",TRUE,5281075,"(Z)-7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxy-3-methyloct-1-enyl]cyclopentyl]hept-5-enoic acid","C21H36O5",368.5,"C06872","Not_Access","3403",1,"Endogenous Metabolites"
+"Misoprostol acid","Misoprostol acid",TRUE,6436406,"7-[(1R,2R,3R)-3-hydroxy-2-[(E)-4-hydroxy-4-methyloct-1-enyl]-5-oxocyclopentyl]heptanoic acid","C21H36O5",368.5,"Not_Access","Not_Access","Not_Access",1,"Therapeutics/Prescription Drugs"
+"Prostaglandin F2alpha methyl ester","Prostaglandin F2alpha methyl ester",TRUE,5283102,"methyl (Z)-7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]hept-5-enoate","C21H36O5",368.5,"Not_Access","Not_Access","185834",1,NA
+"6-Keto-prostaglandin F1alpha","6-Keto-prostaglandin F1alpha",TRUE,5280888,"7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]cyclopentyl]-6-oxoheptanoic acid","C20H34O6",370.5,"C05961","HMDB0002886","28158",1,NA
+"Thromboxane B2","Thromboxane B2",TRUE,5283137,"(Z)-7-[(2R,3S,4S)-4,6-dihydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]oxan-3-yl]hept-5-enoic acid","C20H34O6",370.5,"Not_Access","HMDB0003252","28728",1,"Endogenous Metabolites"
+"Glycerylmonooleate","Glycerylmonooleate",TRUE,20056951,"2,3-dihydroxypropanoyl (Z)-octadec-9-enoate","C21H38O5",370.5,"Not_Access","Not_Access","230387",1,NA
+"1,2-dioctanoyl-3-methyl-1,2,3-butanetriol","1,2-dioctanoyl-3-methyl-1,2,3-butanetriol",TRUE,44237283,"(3-hydroxy-3-methyl-2-octanoyloxybutyl) octanoate","C21H40O5",372.5,"Not_Access","Not_Access","188646",1,NA
+"N-palmitoyl-aspartate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ExMrn00064666",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9'-Carboxy-gamma-tocotrienol","9'-Carboxy-gamma-tocotrienol",TRUE,53481537,"(2E,6E)-9-[(2R)-6-hydroxy-2,7,8-trimethyl-3,4-dihydrochromen-2-yl]-2,6-dimethylnona-2,6-dienoic acid","C23H32O4",372.5,"Not_Access","HMDB0012869","174955",1,NA
+"Norgestomet","Norgestomet",TRUE,9820838,"[(8R,9S,10R,11S,13S,14S,17R)-17-acetyl-11,13-dimethyl-3-oxo-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate","C23H32O4",372.5,"Not_Access","Not_Access","Not_Access",1,NA
+"Deoxycorticosterone acetate","Deoxycorticosterone acetate",TRUE,5952,"[2-[(8S,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]-2-oxoethyl] acetate","C23H32O4",372.5,"C14554","Not_Access","34671",1,"Therapeutics/Prescription Drugs"
+"Androst-4-ene-3beta,17beta-diol diacetate","Androst-4-ene-3beta,17beta-diol diacetate",TRUE,11954158,"[(3S,8R,9S,10R,13S,14S,17S)-17-acetyloxy-10,13-dimethyl-2,3,6,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] acetate","C23H34O4",374.5,"C15324","Not_Access","79826",1,NA
+"Riboflavin","Riboflavin",TRUE,493570,"7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridine-2,4-dione","C17H20N4O6",376.4,"C00255","HMDB0000244","17015",1,"Endogenous Metabolites"
+"11beta,20-Dihydroxy-3-oxopregn-4-en-21-oic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17-dehydro-resolvin D1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7-dehydro-resolvin D2",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8-dehydro-resolvin D1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16-dehydro-resolvin D2",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Phe-Pro-Ile","Phe-Pro-Ile",TRUE,131738793,"(2S,3S)-2-[[(2S)-1-[(2S)-2-amino-3-phenylpropanoyl]pyrrolidine-2-carbonyl]amino]-3-methylpentanoic acid","C20H29N3O4",375.5,"Not_Access","Not_Access","161809",1,NA
+"Prostaglandin E1 (PGE1)","Prostaglandin E1",TRUE,5280723,"7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]heptanoic acid","C20H34O5",354.5,"C04741","HMDB0001442","15544",0.8205,"Endogenous Metabolites"
+"Dhv-PGE2","Dhv-PGE2",TRUE,6439114,"(Z)-7-[(1R,2R,3R)-2-[(E)-4-ethenyl-4-hydroxyoct-1-enyl]-3-hydroxy-5-oxocyclopentyl]hept-5-enoic acid","C22H34O5",378.5,"Not_Access","Not_Access","Not_Access",1,NA
+"METENEPROST","METENEPROST",TRUE,5283060,"(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3R)-3-hydroxy-4,4-dimethyloct-1-enyl]-5-methylidenecyclopentyl]hept-5-enoic acid","C23H38O4",378.5,"Not_Access","Not_Access","165325",1,NA
+"TRIMOPROSTIL","TRIMOPROSTIL",TRUE,6917757,"(Z)-7-[(1R,2R,3R)-2-[(E,3R)-3-hydroxy-4,4-dimethyloct-1-enyl]-3-methyl-5-oxocyclopentyl]hept-5-enoic acid","C23H38O4",378.5,"Not_Access","Not_Access","Not_Access",1,NA
+"1-Arachidonoylglycerol","1-Arachidonoylglycerol",TRUE,114672,"2,3-dihydroxypropyl icosa-5,8,11,14-tetraenoate","C23H38O4",378.5,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"20-Cooh ltb4","20-COOH-LTB4",TRUE,5280877,"(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenedioic acid","C20H30O6",366.4,"C05950","HMDB0006059","27562",0.9167,NA
+"2-Hydroxy-4-oxo-5,12-heneicosadien-1-yl acetate","2-Hydroxy-4-oxo-5,12-heneicosadien-1-yl acetate",TRUE,10126440,"[(5E,12Z)-2-hydroxy-4-oxohenicosa-5,12-dienyl] acetate","C23H40O4",380.6,"Not_Access","HMDB0039403","Not_Access",1,NA
+"MG(20:3(8Z,11Z,14Z)/0:0/0:0)","(8Z,11Z,14Z)-icosa-8,11,14-trienoic acid",TRUE,5280581,"(8Z,11Z,14Z)-icosa-8,11,14-trienoic acid","C20H34O2",306.5,"C03242","HMDB0002925","53486",0.3529,"Endogenous Metabolites"
+"Isopersin","isopersin",TRUE,10691218,"[(2R,12Z,15Z)-1-hydroxy-4-oxohenicosa-12,15-dien-2-yl] acetate","C23H40O4",380.6,"Not_Access","Not_Access","142264",1,NA
+"20a,20b-Dihomo-9-oxo-11R,15S-dihydroxy-5Z,13E-prostadienoic acid","20a,20b-Dihomo-9-oxo-11R,15S-dihydroxy-5Z,13E-prostadienoic acid",TRUE,16061106,"(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxydec-1-enyl]-5-oxocyclopentyl]hept-5-enoic acid","C22H36O5",380.5,"Not_Access","Not_Access","165320",1,NA
+"16,16-Dimethylprostaglandin E2","16,16-Dimethylprostaglandin E2",TRUE,5283066,"(Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3R)-3-hydroxy-4,4-dimethyloct-1-enyl]-5-oxocyclopentyl]hept-5-enoic acid","C22H36O5",380.5,"Not_Access","Not_Access","141046",1,NA
+"Succinyladenosine","Succinyladenosine",TRUE,20849086,"(2S)-2-[[9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]purin-6-yl]amino]butanedioic acid","C14H17N5O8",383.31,"Not_Access","HMDB0000912","71169",1,NA
+"S-Adenosylhomocysteine","S-Adenosylhomocysteine",TRUE,439155,"(2S)-2-amino-4-[[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methylsulfanyl]butanoic acid","C14H20N6O5S",384.41,"C00021","HMDB0000939","16680",1,"Endogenous Metabolites"
+"1-myristoyl-sn-glycerol 3-phosphate","1-myristoyl-sn-glycerol 3-phosphate",TRUE,9547180,"[(2R)-2-hydroxy-3-phosphonooxypropyl] tetradecanoate","C17H35O7P",382.4,"Not_Access","HMDB0062321","62833",1,NA
+"7beta-Hydroxycholesterol","7beta-Hydroxycholesterol",TRUE,473141,"(3S,7R,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,7-diol","C27H46O2",402.7,"Not_Access","HMDB0006119","42989",1,NA
+"20-Hydroxycholesterol","20-Hydroxycholesterol",TRUE,121935,"(3S,8S,9S,10R,13S,14S,17S)-17-[(2S)-2-hydroxy-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol","C27H46O2",402.7,"C05500","Not_Access","1296",1,NA
+"10,11-dihydro-20-trihydroxy-leukotriene B4","10,11-dihydro-20-trihydroxy-leukotriene B4",TRUE,53481448,"(5R,6Z,8E,12R,14Z)-5,12,20,20,20-pentahydroxyicosa-6,8,14-trienoic acid","C20H34O7",386.5,"Not_Access","HMDB0012503","Not_Access",1,NA
+"7-[2-(1,2-Dihydroxy-3-oxooctyl)-3,5-dihydroxycyclopentyl]hept-5-enoic acid",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9'-Carboxy-alpha-tocotrienol","9'-Carboxy-alpha-tocotrienol",TRUE,53481535,"(2E,6E)-9-[(2R)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromen-2-yl]-2,6-dimethylnona-2,6-dienoic acid","C24H34O4",386.5,"Not_Access","HMDB0012867","175091",1,NA
+"Medroxyprogesterone acetate","Medroxyprogesterone acetate",TRUE,6279,"[(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate","C24H34O4",386.5,"C08150","Not_Access","6716",1,NA
+"D8'-Merulinic acid A","D8'-Merulinic acid A",TRUE,5319371,"2-[(E)-heptadec-8-enyl]-4,6-dihydroxybenzoic acid","C24H38O4",390.6,"Not_Access","HMDB0041454","175125",1,NA
+"3,4-Bis(2-ethylhexyl)phthalic acid","3,4-Bis(2-ethylhexyl)phthalic acid",TRUE,19752116,"3,4-bis(2-ethylhexyl)phthalic acid","C24H38O4",390.6,"Not_Access","HMDB0257953","165212",1,NA
+"Di-n-octyl phthalate","Di-n-octyl phthalate",TRUE,8346,"dioctyl benzene-1,2-dicarboxylate","C24H38O4",390.6,"C14227","HMDB0251427","34679",1,NA
+"diHpDHA",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10-Hydroperoxy-H4-neuroprostane","10-Hydroperoxy-H4-neuroprostane",TRUE,134819271,"(4Z,7Z,10S,11E)-10-hydroperoxy-12-[(1R,4S,5S,6R)-6-[(Z)-pent-2-enyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]dodeca-4,7,11-trienoic acid","C22H32O6",392.5,"Not_Access","HMDB0062274","185511",1,NA
+"14-Hydroperoxy-H4-neuroprostane","14-Hydroperoxy-H4-neuroprostane",TRUE,134819275,"(Z)-6-[(1R,4S,5S,6R)-6-[(1E,3S,5Z,8Z)-3-hydroperoxyundeca-1,5,8-trienyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hex-4-enoic acid","C22H32O6",392.5,"Not_Access","HMDB0062292","Not_Access",1,NA
+"2-(14,15-Epoxyeicosatrienoyl) Glycerol","2-(14,15-Epoxyeicosatrienoyl) Glycerol",TRUE,53481916,"1,3-dihydroxypropan-2-yl (5Z,8Z,11Z)-13-(3-pentyloxiran-2-yl)trideca-5,8,11-trienoate","C23H38O5",394.5,"Not_Access","HMDB0013651","132121",1,"Endogenous Metabolites"
+"11-Hydroxyeicosatetraenoate glyceryl ester","11-Hydroxyeicosatetraenoate glyceryl ester",TRUE,53481455,"1,3-dihydroxypropan-2-yl (5Z,8Z,11S,12E,14Z)-11-hydroxyicosa-5,8,12,14-tetraenoate","C23H38O5",394.5,"Not_Access","HMDB0012530","171687",1,NA
+"Acylcarnitine C16:1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"(2-Acetyloxy-3-hydroxypropyl) octadec-9-enoate","(2-Acetyloxy-3-hydroxypropyl) octadec-9-enoate",TRUE,1394,"(2-acetyloxy-3-hydroxypropyl) octadec-9-enoate","C23H42O5",398.6,"Not_Access","Not_Access","Not_Access",1,NA
+"11'-Carboxy-gamma-tocotrienol","11'-Carboxy-gamma-tocotrienol",TRUE,53481454,"(4E,8E)-11-[(2R)-6-hydroxy-2,7,8-trimethyl-3,4-dihydrochromen-2-yl]-4,8-dimethylundeca-4,8-dienoic acid","C25H36O4",400.5,"Not_Access","HMDB0012518","175204",1,NA
+"octacosa-4,7,10,16,19,22,25-octaenoate","octacosa-4,7,10,16,19,22,25-octaenoate",TRUE,54758625,"(4Z,7Z,10Z,13Z,16Z,19Z,22Z,25Z)-octacosa-4,7,10,13,16,19,22,25-octaenoate","C28H39O2-",407.6,"Not_Access","Not_Access","Not_Access",1,NA
+"1,2-Dihexanoyl-sn-glycero-3-phosphoethanolamine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nonaethylene glycol","Nonaethylene glycol",TRUE,4867,"2-[2-[2-[2-[2-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol","C18H38O10",414.5,"Not_Access","Not_Access","39784",1,NA
+"2alpha,17beta-Dihydroxyandrost-4-en-3-one dipropionate","2alpha,17beta-Dihydroxyandrost-4-en-3-one dipropionate",TRUE,11954148,"[(2R,8R,9S,10R,13S,14S,17S)-10,13-dimethyl-3-oxo-2-propanoyloxy-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl] propanoate","C25H36O5",416.5,"C15290","Not_Access","79792",1,NA
+"16alpha,17beta-Dihydroxyandrost-4-en-3-one dipropionate","16alpha,17beta-Dihydroxyandrost-4-en-3-one dipropionate",TRUE,11954147,"[(8R,9S,10R,13S,14S,16R,17R)-10,13-dimethyl-3-oxo-17-propanoyloxy-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-16-yl] propanoate","C25H36O5",416.5,"C15289","Not_Access","79791",1,NA
+"prostaglandin E2 2-glyceryl ester","prostaglandin E2 2-glyceryl ester",TRUE,24778488,"1,3-dihydroxypropan-2-yl (Z)-7-[(1R,2R,3R)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]hept-5-enoate","C23H38O7",426.5,"Not_Access","HMDB0260527","137172",1,NA
+"Prostaglandin PGE2 1-glyceryl ester","Prostaglandin PGE2 1-glyceryl ester",TRUE,52193688,"[(2R)-2,3-dihydroxypropyl] (Z)-7-[(1R,2R,3S)-3-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-5-oxocyclopentyl]hept-5-enoate","C23H38O7",426.5,"Not_Access","HMDB0013043","165319",1,NA
+"Prostaglandin D2-1-glyceryl ester","Prostaglandin D2-1-glyceryl ester",TRUE,24778487,"2,3-dihydroxypropyl (Z)-7-[(1R,2R,5S)-5-hydroxy-2-[(E,3S)-3-hydroxyoct-1-enyl]-3-oxocyclopentyl]hept-5-enoate","C23H38O7",426.5,"Not_Access","Not_Access","85232",1,NA
+"Prostaglandin H2 2-glyceryl Ester","Prostaglandin H2 2-glyceryl Ester",TRUE,24778491,"1,3-dihydroxypropan-2-yl (Z)-7-[(1R,4S,5R,6R)-6-[(E,3S)-3-hydroxyoct-1-enyl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoate","C23H38O7",426.5,"Not_Access","HMDB0062663","85166",1,NA
+"3-Hydroxylinoleoylcarnitine","3-Hydroxylinoleoylcarnitine",TRUE,71464556,"3-[(9Z,12Z)-3-hydroxyoctadeca-9,12-dienoyl]oxy-4-(trimethylazaniumyl)butanoate","C25H45NO5",439.6,"Not_Access","HMDB0240768","73075",1,NA
+"2,3-Diacetoxypropyl stearate","2,3-Diacetoxypropyl stearate",TRUE,256388,"2,3-diacetyloxypropyl octadecanoate","C25H46O6",442.6,"Not_Access","HMDB0059931","172681",1,NA
+"1-palmitoleoyl-sn-glycero-3-phosphoethanolamine","1-palmitoleoyl-sn-glycero-3-phosphoethanolamine",TRUE,90657370,"2-azaniumylethyl [(2R)-3-[(Z)-hexadec-9-enoyl]oxy-2-hydroxypropyl] phosphate","C21H42NO7P",451.5,"Not_Access","Not_Access","Not_Access",1,NA
+"LPE(16:0)","LPE(16:0)",TRUE,53480922,"[(2R)-1-[2-aminoethoxy(hydroxy)phosphoryl]oxy-3-hydroxypropan-2-yl] hexadecanoate","C21H44NO7P",453.5,"Not_Access","HMDB0011473","131743",1,NA
+"LPC(13:0)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13'-Carboxy-alpha-tocotrienol","13'-Carboxy-alpha-tocotrienol",TRUE,53481462,"(2E,6Z,10Z)-13-[(2R)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromen-2-yl]-2,6,10-trimethyltrideca-2,6,10-trienoic acid","C29H42O4",454.6,"Not_Access","HMDB0012556","139535",1,NA
+"ubiquinone-4","ubiquinone-4",TRUE,5283545,"2,3-dimethoxy-5-methyl-6-[(2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraenyl]cyclohexa-2,5-diene-1,4-dione","C29H42O4",454.6,"Not_Access","HMDB0006710","149479",1,"Endogenous Metabolites"
+"10-Nitrooctadeca-9,12-dienoylcarnitine",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1-(linoleoyl)-sn-glycero-3-phosphoethanolamine","1-(linoleoyl)-sn-glycero-3-phosphoethanolamine",TRUE,90657442,"2-azaniumylethyl [(2R)-2-hydroxy-3-[(9Z,12Z)-octadeca-9,12-dienoyl]oxypropyl] phosphate","C23H44NO7P",477.6,"Not_Access","Not_Access","133732",1,NA
+"Hydrocortamate","Hydrocortamate",TRUE,84088,"[2-[(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] 2-(diethylamino)acetate","C27H41NO6",475.6,"Not_Access","HMDB0014907","50851",1,NA
+"LPE 18:3",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"VAPIPROST","VAPIPROST",TRUE,6918030,"(Z)-7-[(1R,2R,3S,5S)-3-hydroxy-5-[(4-phenylphenyl)methoxy]-2-piperidin-1-ylcyclopentyl]hept-4-enoic acid","C30H39NO4",477.6,"Not_Access","Not_Access","Not_Access",1,NA
+"LPE(18:1(9Z)/0:0)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sn-glycero-3-phospho-N-(linoleoyl)ethanolamine","sn-glycero-3-phospho-N-(linoleoyl)ethanolamine",TRUE,138319277,"[(2R)-2,3-dihydroxypropyl] 2-[[(9Z,12Z)-octadeca-9,12-dienoyl]amino]ethyl phosphate","C23H43NO7P-",476.6,"Not_Access","Not_Access","Not_Access",1,NA
+"LPC 16:1",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LPC(16:0)","LPC(16:0)",TRUE,460602,"[(2R)-3-hexadecanoyloxy-2-hydroxypropyl] 2-(trimethylazaniumyl)ethyl phosphate","C24H50NO7P",495.6,"Not_Access","HMDB0010382","72998",1,NA
+"sn-glycero-3-phospho-N-(arachidonoyl)ethanolamine","sn-glycero-3-phospho-N-(arachidonoyl)ethanolamine",TRUE,91666408,"[(2R)-2,3-dihydroxypropyl] 2-[[(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl]amino]ethyl phosphate","C25H43NO7P-",500.6,"Not_Access","Not_Access","85230",1,NA
+"LPC(18:2/0:0)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LPC(18:1)",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"PC 18:1","PC 18:1",TRUE,10350317,"[(2R)-2,3-bis[[(Z)-octadec-9-enoyl]oxy]propyl] 2-(trimethylazaniumyl)ethyl phosphate","C44H84NO8P",786.1,"Not_Access","HMDB0000593","74669",1,NA
+"1-Nonadecanoyl-glycero-3-phosphoserine","1-Nonadecanoyl-glycero-3-phosphoserine",TRUE,52926296,"(2S)-2-amino-3-[hydroxy-[(2R)-2-hydroxy-3-nonadecanoyloxypropoxy]phosphoryl]oxypropanoic acid","C25H50NO9P",539.6,"Not_Access","Not_Access","176855",1,NA
+"PC 18:0",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LPC 20:3",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ADP-ribose","ADP-ribose",TRUE,30243,"[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(2R,3R,4R)-2,3,4-trihydroxy-5-oxopentyl] hydrogen phosphate","C15H23N5O14P2",559.32,"Not_Access","Not_Access","Not_Access",1,"Endogenous Metabolites"
+"Protoporphyrin IX","Protoporphyrin IX",TRUE,4971,"3-[18-(2-carboxyethyl)-8,13-bis(ethenyl)-3,7,12,17-tetramethyl-22,23-dihydroporphyrin-2-yl]propanoic acid","C34H34N4O4",562.7,"C02191","HMDB0000241","15430",1,"Endogenous Metabolites"
+"Cytidylyl-(3',5')-guanosine","Cytidylyl-(3',5')-guanosine",TRUE,135508734,"[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl [(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] hydrogen phosphate","C19H25N8O12P",588.4,"Not_Access","Not_Access","Not_Access",1,NA
+"[5-(2-Amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl [5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl hydrogen phosphate",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Glutathione disulfide","Glutathione disulfide",TRUE,65359,"(2S)-2-amino-5-[[(2R)-3-[[(2R)-2-[[(4S)-4-amino-4-carboxybutanoyl]amino]-3-(carboxymethylamino)-3-oxopropyl]disulfanyl]-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid","C20H32N6O12S2",612.6,"C00127","HMDB0003337","17858",1,"Endogenous Metabolites"
+"3','3-cyclic CMP-UMP",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nicotinamide adenine dinucleotide (NAD)","Nicotinamide adenine dinucleotide (NAD)",TRUE,5892,"[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(2R,3S,4R,5R)-5-(3-carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate","C21H27N7O14P2",663.4,"Not_Access","HMDB0000902","44215",1,"Endogenous Metabolites"
+"2',2'-cyclic GMP-AMP",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3',3'-cyclic GMP-AMP",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cyclic GMP-AMP","Cyclic GMP-AMP",TRUE,135564529,"2-amino-9-[(1R,6R,8R,9R,10S,15R,17R,18R)-8-(6-aminopurin-9-yl)-3,9,12,18-tetrahydroxy-3,12-dioxo-2,4,7,11,13,16-hexaoxa-3lambda5,12lambda5-diphosphatricyclo[13.2.1.06,10]octadecan-17-yl]-1H-purin-6-one","C20H24N10O13P2",674.4,"C20640","Not_Access","75947",1,NA
+"Diacetyl","Diacetyl",TRUE,650,"butane-2,3-dione","C4H6O2",86.09,"C00741","HMDB0003407","16583",1,"Endogenous Metabolites"
+"1,3,5-Heptatriene","1,3,5-Heptatriene",TRUE,5367390,"(3E,5E)-hepta-1,3,5-triene","C7H10",94.15,"Not_Access","HMDB0061889","177462",1,"Industrial Chemicals"
+"2-Ethylfuran","2-Ethylfuran",TRUE,18554,"2-ethylfuran","C6H8O",96.13,"Not_Access","HMDB0040587","141565",1,"Industrial Chemicals"
